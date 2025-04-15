@@ -1,0 +1,1001 @@
+Incident_ID,CVE_ID,Threat_Type,CVSS_Score,Incident_Frequency_Yearly,Economic_Impact_kCAD,Downtime_Hours,Affected_Users_k,Affected_Component
+INC-00001,CVE-2024-16795,DDoS,6.7,6,100,8,5,User Equipment (UE)
+INC-00002,CVE-2022-77820,DDoS,5.0,3,1000,24,100,Radio Access Network (RAN)
+INC-00003,CVE-2024-7265,Unauthorized Access,8.8,5,250,2,20,Radio Access Network (RAN)
+INC-00004,CVE-2020-38194,Network Slice Breach,6.5,6,500,4,500,Multi-access Edge Computing (MEC)
+INC-00005,CVE-2020-45131,DDoS,10.0,3,1000,2,20,Radio Access Network (RAN)
+INC-00006,CVE-2020-68221,Phishing Attack,8.8,5,1000,1,20,IoT Endpoint
+INC-00007,CVE-2022-1769,Ransomware,6.3,6,500,6,20,Radio Access Network (RAN)
+INC-00008,CVE-2021-65925,Misconfiguration,6.4,2,50,12,5,5G Core
+INC-00009,CVE-2023-68969,SIM Swap Attack,10.0,3,1000,2,100,Multi-access Edge Computing (MEC)
+INC-00010,CVE-2021-84104,Ransomware,7.4,3,50,48,5,Multi-access Edge Computing (MEC)
+INC-00011,CVE-2021-86305,Unauthorized Access,6.7,3,500,1,50,5G Core
+INC-00012,CVE-2023-72932,DDoS,7.5,1,500,6,50,Multi-access Edge Computing (MEC)
+INC-00013,CVE-2021-94016,Data Leakage,6.7,4,500,4,5,Radio Access Network (RAN)
+INC-00014,CVE-2018-26658,Data Leakage,7.9,4,250,4,5,Radio Access Network (RAN)
+INC-00015,CVE-2024-19431,Ransomware,7.4,4,250,4,50,Radio Access Network (RAN)
+INC-00016,CVE-2021-3747,Network Slice Breach,8.8,4,5000,2,100,Cloud Infrastructure
+INC-00017,CVE-2024-66725,Ransomware,6.9,6,50,8,1000,IoT Endpoint
+INC-00018,CVE-2023-85654,DDoS,6.2,3,100,8,5,Radio Access Network (RAN)
+INC-00019,CVE-2023-68435,Data Leakage,7.0,3,250,2,5,IoT Endpoint
+INC-00020,CVE-2024-67803,Ransomware,7.0,4,5000,12,5,User Equipment (UE)
+INC-00021,CVE-2018-12394,Data Leakage,7.4,6,50,2,50,Radio Access Network (RAN)
+INC-00022,CVE-2022-4890,Unauthorized Access,8.5,4,50,8,100,User Equipment (UE)
+INC-00023,CVE-2024-97276,SIM Swap Attack,8.4,11,50,1,500,5G Core
+INC-00024,CVE-2018-81038,DDoS,9.3,3,50,1,100,User Equipment (UE)
+INC-00025,CVE-2019-11627,Unauthorized Access,6.3,6,1000,2,20,Multi-access Edge Computing (MEC)
+INC-00026,CVE-2018-74969,Man-in-the-Middle Attack,8.1,7,500,6,50,5G Core
+INC-00027,CVE-2019-77552,Unauthorized Access,8.6,2,500,6,500,Radio Access Network (RAN)
+INC-00028,CVE-2019-69148,SIM Swap Attack,6.5,6,250,2,20,Cloud Infrastructure
+INC-00029,CVE-2019-24483,Man-in-the-Middle Attack,7.2,3,500,1,50,User Equipment (UE)
+INC-00030,CVE-2024-49555,Data Leakage,4.9,2,50,2,1000,Multi-access Edge Computing (MEC)
+INC-00031,CVE-2022-18159,Man-in-the-Middle Attack,8.9,6,100,6,250,5G Core
+INC-00032,CVE-2024-81077,SIM Swap Attack,7.2,9,250,6,250,Radio Access Network (RAN)
+INC-00033,CVE-2018-93067,Misconfiguration,8.7,3,50,1,20,Radio Access Network (RAN)
+INC-00034,CVE-2019-70479,Man-in-the-Middle Attack,7.8,4,100,1,50,5G Core
+INC-00035,CVE-2021-20457,Man-in-the-Middle Attack,7.2,7,100,8,5,Multi-access Edge Computing (MEC)
+INC-00036,CVE-2023-78189,DDoS,5.1,6,50,1,100,User Equipment (UE)
+INC-00037,CVE-2023-79953,DDoS,5.4,2,50,1,5,IoT Endpoint
+INC-00038,CVE-2021-41757,Data Leakage,4.0,7,500,1,500,5G Core
+INC-00039,CVE-2022-46758,DDoS,6.7,3,50,4,250,Multi-access Edge Computing (MEC)
+INC-00040,CVE-2019-73409,Network Slice Breach,10.0,3,5000,4,50,Cloud Infrastructure
+INC-00041,CVE-2021-66697,Ransomware,5.6,1,50,6,5,IoT Endpoint
+INC-00042,CVE-2019-93093,Unauthorized Access,4.0,4,500,2,5,IoT Endpoint
+INC-00043,CVE-2021-33606,Phishing Attack,8.9,6,1000,8,250,Cloud Infrastructure
+INC-00044,CVE-2024-95663,Misconfiguration,10.0,5,5000,1,100,User Equipment (UE)
+INC-00045,CVE-2023-92387,DDoS,7.9,3,1000,12,250,5G Core
+INC-00046,CVE-2018-90789,Network Slice Breach,7.9,6,100,6,20,Radio Access Network (RAN)
+INC-00047,CVE-2022-24247,Firmware Vulnerability,7.0,3,100,6,50,Cloud Infrastructure
+INC-00048,CVE-2022-75065,DDoS,4.8,3,100,2,250,Multi-access Edge Computing (MEC)
+INC-00049,CVE-2024-10268,Phishing Attack,5.3,3,50,1,50,5G Core
+INC-00050,CVE-2019-64704,Unauthorized Access,7.0,2,50,4,100,Multi-access Edge Computing (MEC)
+INC-00051,CVE-2021-40099,Ransomware,6.7,7,1000,6,250,IoT Endpoint
+INC-00052,CVE-2021-39044,SIM Swap Attack,7.3,3,250,1,20,Cloud Infrastructure
+INC-00053,CVE-2024-62228,Ransomware,8.7,7,250,48,5,Radio Access Network (RAN)
+INC-00054,CVE-2018-49984,Man-in-the-Middle Attack,6.6,3,5000,48,50,Multi-access Edge Computing (MEC)
+INC-00055,CVE-2024-3568,Phishing Attack,8.8,5,500,4,5,User Equipment (UE)
+INC-00056,CVE-2018-68563,DDoS,6.6,1,500,48,250,Radio Access Network (RAN)
+INC-00057,CVE-2024-6258,Man-in-the-Middle Attack,9.1,5,500,1,250,5G Core
+INC-00058,CVE-2020-40504,SIM Swap Attack,7.6,3,50,1,500,Cloud Infrastructure
+INC-00059,CVE-2020-62858,DDoS,6.8,2,100,1,100,Multi-access Edge Computing (MEC)
+INC-00060,CVE-2018-13666,Misconfiguration,7.6,3,5000,6,5,Multi-access Edge Computing (MEC)
+INC-00061,CVE-2022-4561,Data Leakage,7.1,9,5000,1,20,IoT Endpoint
+INC-00062,CVE-2024-65505,Data Leakage,7.7,3,1000,48,250,5G Core
+INC-00063,CVE-2018-53251,Data Leakage,8.6,3,250,1,5,Cloud Infrastructure
+INC-00064,CVE-2024-9392,Ransomware,7.4,1,1000,2,100,Radio Access Network (RAN)
+INC-00065,CVE-2021-53256,Misconfiguration,6.9,3,50,12,250,Radio Access Network (RAN)
+INC-00066,CVE-2024-36222,Misconfiguration,5.8,6,50,2,20,5G Core
+INC-00067,CVE-2023-80575,Data Leakage,8.4,2,100,2,20,Radio Access Network (RAN)
+INC-00068,CVE-2022-97354,Phishing Attack,8.0,5,250,6,100,User Equipment (UE)
+INC-00069,CVE-2021-64335,Data Leakage,5.7,5,100,2,500,User Equipment (UE)
+INC-00070,CVE-2023-25538,Network Slice Breach,8.8,3,100,2,20,Cloud Infrastructure
+INC-00071,CVE-2020-71592,Data Leakage,5.7,5,50,2,1000,Radio Access Network (RAN)
+INC-00072,CVE-2020-9110,Network Slice Breach,9.0,5,250,4,100,IoT Endpoint
+INC-00073,CVE-2023-28266,Data Leakage,8.5,3,500,48,1000,Multi-access Edge Computing (MEC)
+INC-00074,CVE-2018-83948,Phishing Attack,8.1,3,500,12,5,User Equipment (UE)
+INC-00075,CVE-2019-99806,Network Slice Breach,6.9,7,50,2,5,IoT Endpoint
+INC-00076,CVE-2024-91982,DDoS,8.4,3,250,2,500,Radio Access Network (RAN)
+INC-00077,CVE-2020-1206,DDoS,9.1,3,500,4,500,Radio Access Network (RAN)
+INC-00078,CVE-2024-88897,Unauthorized Access,8.4,4,250,48,50,Radio Access Network (RAN)
+INC-00079,CVE-2019-24419,Man-in-the-Middle Attack,6.5,2,100,1,250,Multi-access Edge Computing (MEC)
+INC-00080,CVE-2022-51015,Data Leakage,7.9,3,250,2,500,Cloud Infrastructure
+INC-00081,CVE-2024-55268,Data Leakage,9.2,2,5000,8,5,5G Core
+INC-00082,CVE-2021-19141,Network Slice Breach,10.0,5,50,48,100,5G Core
+INC-00083,CVE-2022-72910,Data Leakage,7.2,4,100,1,500,5G Core
+INC-00084,CVE-2022-68214,Ransomware,8.8,3,100,2,50,User Equipment (UE)
+INC-00085,CVE-2020-34827,Network Slice Breach,9.2,7,250,2,20,Radio Access Network (RAN)
+INC-00086,CVE-2022-63623,Man-in-the-Middle Attack,6.3,4,50,1,250,5G Core
+INC-00087,CVE-2024-76450,Firmware Vulnerability,10.0,3,50,6,20,Radio Access Network (RAN)
+INC-00088,CVE-2020-23299,Unauthorized Access,5.9,5,100,6,5,IoT Endpoint
+INC-00089,CVE-2019-65044,DDoS,8.7,1,5000,6,1000,Multi-access Edge Computing (MEC)
+INC-00090,CVE-2023-50080,DDoS,8.0,5,500,1,100,IoT Endpoint
+INC-00091,CVE-2022-3693,DDoS,7.6,7,500,1,250,Radio Access Network (RAN)
+INC-00092,CVE-2021-96259,Data Leakage,10.0,2,1000,2,500,Multi-access Edge Computing (MEC)
+INC-00093,CVE-2021-70163,Unauthorized Access,7.0,4,50,2,5,5G Core
+INC-00094,CVE-2021-49925,Network Slice Breach,7.0,2,1000,8,5,5G Core
+INC-00095,CVE-2023-22834,Network Slice Breach,9.5,3,250,1,20,Multi-access Edge Computing (MEC)
+INC-00096,CVE-2019-76766,DDoS,8.6,7,100,1,20,Radio Access Network (RAN)
+INC-00097,CVE-2021-22976,Unauthorized Access,9.4,1,1000,2,100,IoT Endpoint
+INC-00098,CVE-2024-24776,Ransomware,7.7,3,1000,4,100,5G Core
+INC-00099,CVE-2018-67842,Unauthorized Access,8.0,2,1000,4,50,5G Core
+INC-00100,CVE-2023-7776,Ransomware,10.0,2,50,12,20,User Equipment (UE)
+INC-00101,CVE-2021-56016,Firmware Vulnerability,6.2,2,5000,1,50,Multi-access Edge Computing (MEC)
+INC-00102,CVE-2020-59053,DDoS,7.3,1,5000,8,50,IoT Endpoint
+INC-00103,CVE-2020-95856,SIM Swap Attack,8.7,1,100,2,50,User Equipment (UE)
+INC-00104,CVE-2023-4748,Unauthorized Access,7.2,3,50,2,5,Multi-access Edge Computing (MEC)
+INC-00105,CVE-2018-99098,Firmware Vulnerability,6.6,7,50,24,100,User Equipment (UE)
+INC-00106,CVE-2019-67199,Data Leakage,8.4,5,5000,2,5,Multi-access Edge Computing (MEC)
+INC-00107,CVE-2024-74530,Man-in-the-Middle Attack,9.5,2,250,6,20,5G Core
+INC-00108,CVE-2023-62087,Phishing Attack,7.3,6,100,2,250,Radio Access Network (RAN)
+INC-00109,CVE-2018-55384,Network Slice Breach,7.2,2,100,4,5,Multi-access Edge Computing (MEC)
+INC-00110,CVE-2023-47576,Network Slice Breach,6.5,4,100,8,100,Radio Access Network (RAN)
+INC-00111,CVE-2019-63003,Network Slice Breach,7.1,2,500,24,20,Radio Access Network (RAN)
+INC-00112,CVE-2021-53733,Data Leakage,9.1,3,100,12,5,Radio Access Network (RAN)
+INC-00113,CVE-2024-90474,DDoS,7.6,2,5000,6,5,5G Core
+INC-00114,CVE-2018-68172,Unauthorized Access,6.3,2,500,2,1000,5G Core
+INC-00115,CVE-2018-94264,Data Leakage,7.9,7,500,6,50,5G Core
+INC-00116,CVE-2020-27736,Data Leakage,9.1,4,100,8,1000,5G Core
+INC-00117,CVE-2019-1854,Phishing Attack,6.7,2,50,1,50,Radio Access Network (RAN)
+INC-00118,CVE-2022-39623,Data Leakage,5.5,3,250,4,50,Multi-access Edge Computing (MEC)
+INC-00119,CVE-2018-56680,SIM Swap Attack,10.0,5,100,12,50,5G Core
+INC-00120,CVE-2020-47717,Ransomware,5.4,3,50,4,20,User Equipment (UE)
+INC-00121,CVE-2019-88092,Unauthorized Access,7.0,2,5000,2,20,User Equipment (UE)
+INC-00122,CVE-2021-27309,Unauthorized Access,7.8,4,100,12,20,Multi-access Edge Computing (MEC)
+INC-00123,CVE-2024-71467,Unauthorized Access,7.1,0,50,1,50,IoT Endpoint
+INC-00124,CVE-2024-99506,Firmware Vulnerability,7.4,2,50,2,5,Radio Access Network (RAN)
+INC-00125,CVE-2020-13688,Ransomware,8.4,5,100,6,20,5G Core
+INC-00126,CVE-2024-38157,Phishing Attack,4.0,2,5000,2,20,Cloud Infrastructure
+INC-00127,CVE-2022-53083,Unauthorized Access,5.6,3,100,8,50,5G Core
+INC-00128,CVE-2019-66733,Data Leakage,7.6,3,100,1,100,Cloud Infrastructure
+INC-00129,CVE-2023-35698,Data Leakage,6.9,10,500,2,500,Multi-access Edge Computing (MEC)
+INC-00130,CVE-2024-81623,Unauthorized Access,7.7,3,100,1,20,Radio Access Network (RAN)
+INC-00131,CVE-2018-94384,Network Slice Breach,7.8,4,50,48,5,Multi-access Edge Computing (MEC)
+INC-00132,CVE-2021-87202,Unauthorized Access,4.3,8,50,4,20,Multi-access Edge Computing (MEC)
+INC-00133,CVE-2023-52663,DDoS,9.4,5,100,2,500,5G Core
+INC-00134,CVE-2022-92906,Unauthorized Access,6.8,3,50,1,5,Radio Access Network (RAN)
+INC-00135,CVE-2021-3811,DDoS,6.2,4,50,1,100,IoT Endpoint
+INC-00136,CVE-2020-73082,Unauthorized Access,7.8,5,1000,4,50,Multi-access Edge Computing (MEC)
+INC-00137,CVE-2019-35754,Data Leakage,7.7,5,50,1,5,5G Core
+INC-00138,CVE-2024-12411,Data Leakage,9.3,3,500,4,20,Radio Access Network (RAN)
+INC-00139,CVE-2024-84763,Data Leakage,7.9,9,500,4,20,User Equipment (UE)
+INC-00140,CVE-2018-85896,DDoS,9.2,3,250,8,500,Multi-access Edge Computing (MEC)
+INC-00141,CVE-2024-12111,Data Leakage,6.1,4,100,6,50,Multi-access Edge Computing (MEC)
+INC-00142,CVE-2018-2802,Ransomware,7.7,5,50,4,100,Cloud Infrastructure
+INC-00143,CVE-2021-74656,Unauthorized Access,5.8,6,500,2,100,Radio Access Network (RAN)
+INC-00144,CVE-2018-48254,Firmware Vulnerability,7.6,5,250,8,100,Multi-access Edge Computing (MEC)
+INC-00145,CVE-2024-86981,DDoS,7.3,6,500,8,50,User Equipment (UE)
+INC-00146,CVE-2019-31306,Data Leakage,7.3,4,50,1,5,User Equipment (UE)
+INC-00147,CVE-2024-47843,Data Leakage,7.3,6,5000,24,20,Radio Access Network (RAN)
+INC-00148,CVE-2019-91735,Unauthorized Access,8.6,1,50,1,5,5G Core
+INC-00149,CVE-2018-17371,Ransomware,5.1,6,100,1,100,IoT Endpoint
+INC-00150,CVE-2021-3049,Ransomware,6.2,4,100,1,5,Radio Access Network (RAN)
+INC-00151,CVE-2018-21932,Firmware Vulnerability,7.4,11,50,24,100,Cloud Infrastructure
+INC-00152,CVE-2022-30855,Unauthorized Access,5.7,8,250,4,20,5G Core
+INC-00153,CVE-2020-73694,Unauthorized Access,7.6,4,500,8,1000,Radio Access Network (RAN)
+INC-00154,CVE-2018-8400,Unauthorized Access,7.4,1,1000,2,20,5G Core
+INC-00155,CVE-2020-43642,Data Leakage,5.4,2,1000,4,20,IoT Endpoint
+INC-00156,CVE-2020-5499,DDoS,5.3,4,250,2,1000,User Equipment (UE)
+INC-00157,CVE-2023-60040,Unauthorized Access,4.0,5,250,12,50,IoT Endpoint
+INC-00158,CVE-2021-13874,Data Leakage,5.7,3,50,1,1000,Cloud Infrastructure
+INC-00159,CVE-2018-33711,Misconfiguration,7.5,2,250,2,5,5G Core
+INC-00160,CVE-2021-54351,Ransomware,7.7,4,50,1,20,5G Core
+INC-00161,CVE-2021-49354,Unauthorized Access,7.8,3,100,12,100,User Equipment (UE)
+INC-00162,CVE-2023-39360,Unauthorized Access,6.3,2,100,4,500,User Equipment (UE)
+INC-00163,CVE-2020-3200,Data Leakage,7.5,4,100,4,20,User Equipment (UE)
+INC-00164,CVE-2022-69497,Unauthorized Access,8.1,3,250,4,1000,User Equipment (UE)
+INC-00165,CVE-2023-78505,Network Slice Breach,5.6,5,1000,48,100,Radio Access Network (RAN)
+INC-00166,CVE-2023-62135,Phishing Attack,7.7,5,100,12,250,5G Core
+INC-00167,CVE-2022-95179,Man-in-the-Middle Attack,8.5,3,5000,8,50,Cloud Infrastructure
+INC-00168,CVE-2018-39467,Unauthorized Access,6.8,6,500,2,20,Radio Access Network (RAN)
+INC-00169,CVE-2018-92412,Firmware Vulnerability,9.1,1,250,1,500,Radio Access Network (RAN)
+INC-00170,CVE-2021-59871,Network Slice Breach,6.8,6,250,24,1000,IoT Endpoint
+INC-00171,CVE-2024-87416,Network Slice Breach,6.2,4,50,4,50,Radio Access Network (RAN)
+INC-00172,CVE-2018-71091,DDoS,8.3,1,1000,2,5,User Equipment (UE)
+INC-00173,CVE-2020-41818,SIM Swap Attack,10.0,5,250,4,5,5G Core
+INC-00174,CVE-2023-20830,DDoS,7.6,3,5000,24,100,User Equipment (UE)
+INC-00175,CVE-2023-7893,Ransomware,8.5,1,250,2,5,IoT Endpoint
+INC-00176,CVE-2023-80909,DDoS,6.7,3,1000,6,50,Multi-access Edge Computing (MEC)
+INC-00177,CVE-2023-4436,Data Leakage,5.6,3,500,12,20,Multi-access Edge Computing (MEC)
+INC-00178,CVE-2020-77213,Ransomware,7.7,0,100,4,250,Radio Access Network (RAN)
+INC-00179,CVE-2020-31746,Ransomware,8.0,1,100,2,5,Multi-access Edge Computing (MEC)
+INC-00180,CVE-2019-49404,DDoS,7.0,7,100,48,50,Multi-access Edge Computing (MEC)
+INC-00181,CVE-2023-98888,DDoS,8.4,0,250,48,100,Multi-access Edge Computing (MEC)
+INC-00182,CVE-2021-40790,Data Leakage,6.5,3,50,12,100,Radio Access Network (RAN)
+INC-00183,CVE-2018-95660,Man-in-the-Middle Attack,6.1,5,1000,6,50,5G Core
+INC-00184,CVE-2021-41764,Unauthorized Access,9.1,1,250,2,20,5G Core
+INC-00185,CVE-2020-57835,Network Slice Breach,9.1,1,5000,24,100,IoT Endpoint
+INC-00186,CVE-2020-74744,Man-in-the-Middle Attack,6.5,4,1000,2,500,5G Core
+INC-00187,CVE-2021-19589,DDoS,10.0,8,250,12,100,User Equipment (UE)
+INC-00188,CVE-2022-83989,Ransomware,7.1,7,5000,24,1000,IoT Endpoint
+INC-00189,CVE-2022-44525,SIM Swap Attack,7.6,4,250,6,250,User Equipment (UE)
+INC-00190,CVE-2020-33635,Data Leakage,7.4,3,1000,12,250,User Equipment (UE)
+INC-00191,CVE-2018-34828,Ransomware,8.3,5,100,8,5,5G Core
+INC-00192,CVE-2022-97752,Network Slice Breach,7.9,5,100,1,50,User Equipment (UE)
+INC-00193,CVE-2023-46236,Unauthorized Access,7.9,2,100,6,50,Multi-access Edge Computing (MEC)
+INC-00194,CVE-2024-67235,Network Slice Breach,6.0,3,250,1,20,User Equipment (UE)
+INC-00195,CVE-2018-66726,DDoS,5.0,6,250,4,50,User Equipment (UE)
+INC-00196,CVE-2022-7102,DDoS,9.2,7,250,1,20,5G Core
+INC-00197,CVE-2018-86314,DDoS,6.7,4,100,4,100,Radio Access Network (RAN)
+INC-00198,CVE-2019-35584,Misconfiguration,7.4,2,5000,12,50,Multi-access Edge Computing (MEC)
+INC-00199,CVE-2019-24093,Man-in-the-Middle Attack,8.0,7,250,48,50,IoT Endpoint
+INC-00200,CVE-2019-52885,DDoS,9.9,3,100,2,1000,Radio Access Network (RAN)
+INC-00201,CVE-2019-73991,Ransomware,7.7,4,500,4,50,Radio Access Network (RAN)
+INC-00202,CVE-2024-12093,Man-in-the-Middle Attack,6.9,6,500,4,20,Radio Access Network (RAN)
+INC-00203,CVE-2024-36777,DDoS,6.7,3,5000,48,20,Multi-access Edge Computing (MEC)
+INC-00204,CVE-2024-83074,Ransomware,7.4,1,250,4,500,Cloud Infrastructure
+INC-00205,CVE-2019-46017,SIM Swap Attack,6.1,3,50,6,50,User Equipment (UE)
+INC-00206,CVE-2018-28751,Ransomware,7.5,4,100,24,100,Radio Access Network (RAN)
+INC-00207,CVE-2018-79069,Data Leakage,7.4,3,250,2,5,5G Core
+INC-00208,CVE-2024-55748,SIM Swap Attack,10.0,3,1000,24,50,5G Core
+INC-00209,CVE-2019-20190,Unauthorized Access,7.4,4,100,24,20,Multi-access Edge Computing (MEC)
+INC-00210,CVE-2019-51993,DDoS,4.6,2,5000,24,250,User Equipment (UE)
+INC-00211,CVE-2018-11647,Ransomware,10.0,2,250,2,500,Radio Access Network (RAN)
+INC-00212,CVE-2022-89891,Firmware Vulnerability,8.9,3,5000,4,250,Multi-access Edge Computing (MEC)
+INC-00213,CVE-2019-90912,Firmware Vulnerability,10.0,3,50,12,250,User Equipment (UE)
+INC-00214,CVE-2021-71316,Phishing Attack,5.8,5,1000,2,50,Cloud Infrastructure
+INC-00215,CVE-2021-3368,DDoS,7.2,2,5000,6,250,5G Core
+INC-00216,CVE-2023-71031,Phishing Attack,8.5,4,5000,1,50,5G Core
+INC-00217,CVE-2023-92083,Misconfiguration,8.3,3,50,1,100,Radio Access Network (RAN)
+INC-00218,CVE-2020-56766,Data Leakage,8.0,4,50,4,20,IoT Endpoint
+INC-00219,CVE-2024-14403,Misconfiguration,4.2,5,500,6,5,Cloud Infrastructure
+INC-00220,CVE-2019-79657,Phishing Attack,4.9,6,50,2,50,5G Core
+INC-00221,CVE-2024-94848,Data Leakage,9.8,1,50,6,50,5G Core
+INC-00222,CVE-2019-50726,Data Leakage,10.0,3,50,4,20,User Equipment (UE)
+INC-00223,CVE-2023-51300,Unauthorized Access,7.3,1,250,6,250,IoT Endpoint
+INC-00224,CVE-2023-56609,DDoS,9.6,1,250,6,5,Cloud Infrastructure
+INC-00225,CVE-2019-57661,Data Leakage,6.0,2,50,4,20,Radio Access Network (RAN)
+INC-00226,CVE-2018-71313,Ransomware,6.3,3,50,4,250,Radio Access Network (RAN)
+INC-00227,CVE-2023-54006,Firmware Vulnerability,5.8,5,250,1,50,5G Core
+INC-00228,CVE-2023-16338,SIM Swap Attack,6.2,4,250,4,250,5G Core
+INC-00229,CVE-2021-93772,Man-in-the-Middle Attack,8.6,1,50,6,100,Multi-access Edge Computing (MEC)
+INC-00230,CVE-2018-81135,DDoS,6.2,5,100,4,1000,Radio Access Network (RAN)
+INC-00231,CVE-2022-4051,Ransomware,10.0,2,1000,2,100,5G Core
+INC-00232,CVE-2021-88142,DDoS,8.2,2,5000,8,5,User Equipment (UE)
+INC-00233,CVE-2021-55021,Data Leakage,9.1,7,5000,1,20,5G Core
+INC-00234,CVE-2022-59335,Phishing Attack,8.2,2,1000,24,5,IoT Endpoint
+INC-00235,CVE-2021-33093,Misconfiguration,9.3,4,100,1,1000,Radio Access Network (RAN)
+INC-00236,CVE-2024-81738,Unauthorized Access,6.2,8,500,48,5,User Equipment (UE)
+INC-00237,CVE-2024-73615,Misconfiguration,9.7,2,100,4,50,5G Core
+INC-00238,CVE-2021-95476,Firmware Vulnerability,7.7,3,250,4,20,User Equipment (UE)
+INC-00239,CVE-2019-18019,Ransomware,9.3,1,100,2,500,5G Core
+INC-00240,CVE-2019-84613,Firmware Vulnerability,5.3,0,250,1,20,Radio Access Network (RAN)
+INC-00241,CVE-2020-87672,Unauthorized Access,7.8,3,250,2,1000,IoT Endpoint
+INC-00242,CVE-2024-80634,Ransomware,7.7,7,50,1,5,5G Core
+INC-00243,CVE-2021-26945,Data Leakage,6.6,6,500,6,5,Radio Access Network (RAN)
+INC-00244,CVE-2022-33217,Ransomware,8.0,1,50,2,20,User Equipment (UE)
+INC-00245,CVE-2022-6949,Data Leakage,9.8,6,100,8,250,User Equipment (UE)
+INC-00246,CVE-2024-2150,Data Leakage,6.5,8,50,2,500,5G Core
+INC-00247,CVE-2018-75740,Network Slice Breach,8.9,3,100,24,5,5G Core
+INC-00248,CVE-2018-67617,Unauthorized Access,5.8,2,50,4,5,5G Core
+INC-00249,CVE-2019-17896,Network Slice Breach,10.0,5,1000,1,250,5G Core
+INC-00250,CVE-2024-47175,Data Leakage,8.7,5,100,4,5,Cloud Infrastructure
+INC-00251,CVE-2023-6237,Network Slice Breach,10.0,3,250,2,5,Multi-access Edge Computing (MEC)
+INC-00252,CVE-2018-46543,Unauthorized Access,8.5,1,100,1,5,Multi-access Edge Computing (MEC)
+INC-00253,CVE-2022-4343,DDoS,8.1,2,250,4,5,Cloud Infrastructure
+INC-00254,CVE-2022-54222,Data Leakage,8.7,5,500,6,20,Multi-access Edge Computing (MEC)
+INC-00255,CVE-2024-17964,DDoS,7.3,6,250,24,5,IoT Endpoint
+INC-00256,CVE-2023-60638,Data Leakage,5.1,4,500,4,20,Radio Access Network (RAN)
+INC-00257,CVE-2020-86067,Man-in-the-Middle Attack,8.2,2,1000,48,500,Radio Access Network (RAN)
+INC-00258,CVE-2019-68215,Network Slice Breach,6.4,4,1000,24,20,Multi-access Edge Computing (MEC)
+INC-00259,CVE-2020-14284,Network Slice Breach,5.8,8,500,12,250,5G Core
+INC-00260,CVE-2023-85664,SIM Swap Attack,8.5,3,50,4,5,Radio Access Network (RAN)
+INC-00261,CVE-2022-62389,Firmware Vulnerability,7.1,5,250,1,100,5G Core
+INC-00262,CVE-2021-55340,Misconfiguration,9.0,4,250,2,20,5G Core
+INC-00263,CVE-2024-79832,Phishing Attack,6.3,7,500,6,250,Multi-access Edge Computing (MEC)
+INC-00264,CVE-2023-96981,DDoS,6.8,2,1000,4,5,Multi-access Edge Computing (MEC)
+INC-00265,CVE-2023-61403,DDoS,9.2,5,500,1,500,Radio Access Network (RAN)
+INC-00266,CVE-2022-96435,Network Slice Breach,7.9,6,1000,4,20,Radio Access Network (RAN)
+INC-00267,CVE-2019-36247,Ransomware,5.3,0,50,1,20,IoT Endpoint
+INC-00268,CVE-2022-95758,Network Slice Breach,7.9,4,50,8,1000,5G Core
+INC-00269,CVE-2021-63752,Unauthorized Access,9.7,3,100,1,100,Multi-access Edge Computing (MEC)
+INC-00270,CVE-2023-60101,Network Slice Breach,6.8,6,1000,6,20,User Equipment (UE)
+INC-00271,CVE-2022-27646,Man-in-the-Middle Attack,8.4,9,1000,8,1000,5G Core
+INC-00272,CVE-2019-24049,Man-in-the-Middle Attack,6.2,1,500,1,20,User Equipment (UE)
+INC-00273,CVE-2023-99116,Network Slice Breach,7.3,3,500,4,5,User Equipment (UE)
+INC-00274,CVE-2021-69385,Phishing Attack,9.1,3,500,8,1000,5G Core
+INC-00275,CVE-2021-41158,Unauthorized Access,7.8,3,5000,2,20,5G Core
+INC-00276,CVE-2019-24289,Misconfiguration,9.4,2,1000,1,500,Cloud Infrastructure
+INC-00277,CVE-2020-10823,DDoS,8.1,10,250,2,5,5G Core
+INC-00278,CVE-2018-42975,SIM Swap Attack,10.0,5,500,6,250,User Equipment (UE)
+INC-00279,CVE-2022-17364,Data Leakage,5.2,3,50,6,50,Multi-access Edge Computing (MEC)
+INC-00280,CVE-2021-28663,Unauthorized Access,7.2,7,500,1,1000,Radio Access Network (RAN)
+INC-00281,CVE-2024-31977,Ransomware,5.9,7,100,4,100,5G Core
+INC-00282,CVE-2018-50115,Network Slice Breach,6.0,9,50,2,5,Multi-access Edge Computing (MEC)
+INC-00283,CVE-2020-67387,Ransomware,6.0,7,1000,12,100,Radio Access Network (RAN)
+INC-00284,CVE-2021-73369,DDoS,7.8,8,250,2,5,IoT Endpoint
+INC-00285,CVE-2020-36195,Data Leakage,7.8,4,5000,12,250,Cloud Infrastructure
+INC-00286,CVE-2018-5000,Network Slice Breach,8.1,2,100,4,500,User Equipment (UE)
+INC-00287,CVE-2022-94610,Man-in-the-Middle Attack,5.8,4,250,8,50,Radio Access Network (RAN)
+INC-00288,CVE-2022-98856,Misconfiguration,7.0,3,100,4,250,User Equipment (UE)
+INC-00289,CVE-2018-70449,Network Slice Breach,6.1,4,50,6,5,User Equipment (UE)
+INC-00290,CVE-2020-90643,Data Leakage,8.9,3,100,2,50,Cloud Infrastructure
+INC-00291,CVE-2022-87027,DDoS,6.2,4,100,8,50,Multi-access Edge Computing (MEC)
+INC-00292,CVE-2024-4373,Man-in-the-Middle Attack,7.2,6,50,4,100,User Equipment (UE)
+INC-00293,CVE-2019-98532,Unauthorized Access,8.3,0,100,4,5,Multi-access Edge Computing (MEC)
+INC-00294,CVE-2020-28350,SIM Swap Attack,6.6,3,50,4,250,Radio Access Network (RAN)
+INC-00295,CVE-2018-95297,Phishing Attack,8.5,4,500,12,5,Cloud Infrastructure
+INC-00296,CVE-2022-16305,Network Slice Breach,9.9,5,50,6,100,5G Core
+INC-00297,CVE-2019-77797,DDoS,7.8,5,250,2,5,5G Core
+INC-00298,CVE-2019-58458,Firmware Vulnerability,8.9,7,500,6,500,User Equipment (UE)
+INC-00299,CVE-2018-21358,Phishing Attack,4.4,2,250,6,5,5G Core
+INC-00300,CVE-2021-83745,Ransomware,6.9,2,5000,24,50,User Equipment (UE)
+INC-00301,CVE-2022-39513,Ransomware,7.8,5,500,12,20,IoT Endpoint
+INC-00302,CVE-2022-12338,Phishing Attack,5.9,2,500,6,250,5G Core
+INC-00303,CVE-2022-8543,Ransomware,7.8,3,50,2,20,Radio Access Network (RAN)
+INC-00304,CVE-2021-34496,Misconfiguration,9.1,8,500,8,250,User Equipment (UE)
+INC-00305,CVE-2022-90084,Unauthorized Access,4.7,2,1000,6,20,Multi-access Edge Computing (MEC)
+INC-00306,CVE-2018-45425,DDoS,5.7,3,100,48,250,Cloud Infrastructure
+INC-00307,CVE-2022-19888,Phishing Attack,7.8,9,50,2,5,User Equipment (UE)
+INC-00308,CVE-2020-84042,Unauthorized Access,8.2,2,100,1,20,Radio Access Network (RAN)
+INC-00309,CVE-2021-38841,Network Slice Breach,8.6,4,500,1,50,5G Core
+INC-00310,CVE-2018-66510,DDoS,7.7,3,100,6,5,Cloud Infrastructure
+INC-00311,CVE-2024-8357,DDoS,8.2,6,500,24,5,Multi-access Edge Computing (MEC)
+INC-00312,CVE-2022-45811,Data Leakage,8.9,3,50,1,1000,5G Core
+INC-00313,CVE-2018-21150,Network Slice Breach,6.9,7,1000,8,1000,User Equipment (UE)
+INC-00314,CVE-2022-44286,Data Leakage,6.6,3,100,6,250,User Equipment (UE)
+INC-00315,CVE-2018-69450,Phishing Attack,7.2,3,50,8,20,IoT Endpoint
+INC-00316,CVE-2018-56069,Data Leakage,7.8,5,250,2,20,Radio Access Network (RAN)
+INC-00317,CVE-2018-15397,DDoS,6.5,2,50,12,100,IoT Endpoint
+INC-00318,CVE-2021-47959,Unauthorized Access,6.9,2,50,1,5,IoT Endpoint
+INC-00319,CVE-2018-51517,Misconfiguration,8.1,3,100,8,1000,User Equipment (UE)
+INC-00320,CVE-2022-67234,Phishing Attack,7.7,7,250,2,20,Cloud Infrastructure
+INC-00321,CVE-2020-48280,Network Slice Breach,7.2,2,1000,4,1000,Multi-access Edge Computing (MEC)
+INC-00322,CVE-2021-17779,Ransomware,4.9,6,1000,12,50,User Equipment (UE)
+INC-00323,CVE-2022-73936,Ransomware,7.5,2,250,2,250,Cloud Infrastructure
+INC-00324,CVE-2020-37939,Man-in-the-Middle Attack,6.0,2,50,1,5,5G Core
+INC-00325,CVE-2018-36270,Firmware Vulnerability,9.0,3,250,6,500,5G Core
+INC-00326,CVE-2021-83637,Man-in-the-Middle Attack,7.0,6,500,4,20,User Equipment (UE)
+INC-00327,CVE-2024-65895,Phishing Attack,6.0,6,100,4,100,5G Core
+INC-00328,CVE-2021-55098,Phishing Attack,7.4,5,50,2,250,5G Core
+INC-00329,CVE-2019-6486,DDoS,9.4,4,100,1,5,5G Core
+INC-00330,CVE-2022-90112,Unauthorized Access,8.4,5,500,4,50,Radio Access Network (RAN)
+INC-00331,CVE-2021-12130,DDoS,7.8,8,100,1,50,5G Core
+INC-00332,CVE-2022-61566,Ransomware,5.5,2,1000,24,20,Radio Access Network (RAN)
+INC-00333,CVE-2018-2062,Firmware Vulnerability,9.9,2,100,1,50,Cloud Infrastructure
+INC-00334,CVE-2022-90780,Network Slice Breach,6.6,2,50,4,20,IoT Endpoint
+INC-00335,CVE-2019-22689,Network Slice Breach,8.9,2,100,1,20,IoT Endpoint
+INC-00336,CVE-2024-89461,DDoS,7.0,5,250,1,100,5G Core
+INC-00337,CVE-2024-10348,Ransomware,8.8,2,50,6,100,IoT Endpoint
+INC-00338,CVE-2020-39102,Ransomware,9.5,3,50,6,20,IoT Endpoint
+INC-00339,CVE-2022-90930,Ransomware,8.5,4,50,1,500,IoT Endpoint
+INC-00340,CVE-2019-73267,Data Leakage,8.6,5,50,1,500,5G Core
+INC-00341,CVE-2018-24625,Ransomware,7.4,3,100,1,50,Radio Access Network (RAN)
+INC-00342,CVE-2019-73592,Data Leakage,6.8,6,5000,8,50,User Equipment (UE)
+INC-00343,CVE-2022-45261,DDoS,7.7,7,250,6,20,IoT Endpoint
+INC-00344,CVE-2024-22677,DDoS,7.0,1,250,1,250,IoT Endpoint
+INC-00345,CVE-2022-51343,Ransomware,10.0,2,100,4,100,Multi-access Edge Computing (MEC)
+INC-00346,CVE-2019-63856,Data Leakage,6.0,4,100,8,5,Radio Access Network (RAN)
+INC-00347,CVE-2019-89858,Man-in-the-Middle Attack,9.0,5,50,12,100,User Equipment (UE)
+INC-00348,CVE-2019-84460,Unauthorized Access,8.3,6,250,24,20,5G Core
+INC-00349,CVE-2022-55693,Unauthorized Access,7.8,3,250,2,5,IoT Endpoint
+INC-00350,CVE-2020-29295,Man-in-the-Middle Attack,9.7,3,50,1,100,Cloud Infrastructure
+INC-00351,CVE-2022-27432,DDoS,7.9,4,500,2,100,User Equipment (UE)
+INC-00352,CVE-2023-92792,Unauthorized Access,6.5,6,250,8,50,Radio Access Network (RAN)
+INC-00353,CVE-2024-41262,Phishing Attack,7.9,2,100,48,50,Radio Access Network (RAN)
+INC-00354,CVE-2018-2324,Data Leakage,7.2,4,50,4,1000,IoT Endpoint
+INC-00355,CVE-2021-36909,Unauthorized Access,8.3,5,250,2,100,User Equipment (UE)
+INC-00356,CVE-2021-20870,Misconfiguration,8.7,3,500,4,100,Multi-access Edge Computing (MEC)
+INC-00357,CVE-2020-73124,Phishing Attack,6.2,4,100,2,5,Multi-access Edge Computing (MEC)
+INC-00358,CVE-2021-27790,Ransomware,9.3,6,50,2,5,5G Core
+INC-00359,CVE-2020-26289,Data Leakage,7.1,6,250,6,20,IoT Endpoint
+INC-00360,CVE-2019-94714,Data Leakage,8.2,5,50,1,50,IoT Endpoint
+INC-00361,CVE-2024-16485,Unauthorized Access,8.4,4,500,2,250,Cloud Infrastructure
+INC-00362,CVE-2020-87188,Unauthorized Access,8.1,6,250,6,20,Radio Access Network (RAN)
+INC-00363,CVE-2022-87769,Unauthorized Access,7.3,4,50,1,20,User Equipment (UE)
+INC-00364,CVE-2021-4709,Data Leakage,6.8,0,50,1,20,Radio Access Network (RAN)
+INC-00365,CVE-2019-31355,Unauthorized Access,7.1,3,250,2,20,Multi-access Edge Computing (MEC)
+INC-00366,CVE-2021-58799,Firmware Vulnerability,9.8,2,100,12,1000,User Equipment (UE)
+INC-00367,CVE-2022-26470,Data Leakage,6.2,4,50,8,100,5G Core
+INC-00368,CVE-2018-43918,DDoS,6.4,4,500,1,5,Radio Access Network (RAN)
+INC-00369,CVE-2018-40298,Data Leakage,6.4,1,100,4,250,User Equipment (UE)
+INC-00370,CVE-2022-81219,Ransomware,7.7,4,250,2,250,Multi-access Edge Computing (MEC)
+INC-00371,CVE-2023-67040,Data Leakage,5.2,4,50,6,100,5G Core
+INC-00372,CVE-2024-29016,Man-in-the-Middle Attack,5.5,7,250,8,5,Radio Access Network (RAN)
+INC-00373,CVE-2018-34591,Ransomware,7.1,4,100,12,50,Multi-access Edge Computing (MEC)
+INC-00374,CVE-2018-68641,Unauthorized Access,5.6,7,5000,4,5,Cloud Infrastructure
+INC-00375,CVE-2021-23700,Ransomware,5.7,3,500,48,250,5G Core
+INC-00376,CVE-2022-21559,DDoS,5.6,1,50,48,100,User Equipment (UE)
+INC-00377,CVE-2023-94396,Unauthorized Access,6.2,5,100,24,50,5G Core
+INC-00378,CVE-2020-77539,Unauthorized Access,8.6,8,100,6,20,5G Core
+INC-00379,CVE-2022-92362,SIM Swap Attack,8.9,6,250,2,5,5G Core
+INC-00380,CVE-2020-14843,Unauthorized Access,10.0,2,1000,2,5,User Equipment (UE)
+INC-00381,CVE-2018-72726,Unauthorized Access,10.0,1,250,1,1000,5G Core
+INC-00382,CVE-2018-53528,Data Leakage,8.7,2,50,2,5,User Equipment (UE)
+INC-00383,CVE-2023-53638,DDoS,9.0,2,500,8,5,Multi-access Edge Computing (MEC)
+INC-00384,CVE-2018-69866,SIM Swap Attack,7.7,4,50,6,1000,Cloud Infrastructure
+INC-00385,CVE-2024-25504,Data Leakage,8.3,2,500,24,50,User Equipment (UE)
+INC-00386,CVE-2020-79859,Man-in-the-Middle Attack,10.0,1,500,1,250,IoT Endpoint
+INC-00387,CVE-2019-11975,DDoS,8.1,4,100,1,5,User Equipment (UE)
+INC-00388,CVE-2023-24959,Unauthorized Access,9.2,3,100,8,100,IoT Endpoint
+INC-00389,CVE-2021-30703,Unauthorized Access,6.1,3,500,2,50,User Equipment (UE)
+INC-00390,CVE-2019-47427,Phishing Attack,6.5,7,500,1,250,Radio Access Network (RAN)
+INC-00391,CVE-2021-62529,DDoS,8.0,3,100,48,5,5G Core
+INC-00392,CVE-2019-32921,Ransomware,7.7,4,100,8,50,IoT Endpoint
+INC-00393,CVE-2021-28355,SIM Swap Attack,6.6,4,250,4,250,Radio Access Network (RAN)
+INC-00394,CVE-2022-5835,Network Slice Breach,10.0,2,50,12,50,Radio Access Network (RAN)
+INC-00395,CVE-2020-48605,Unauthorized Access,7.8,2,50,6,100,Multi-access Edge Computing (MEC)
+INC-00396,CVE-2024-39088,DDoS,6.8,4,50,8,5,Radio Access Network (RAN)
+INC-00397,CVE-2018-56284,SIM Swap Attack,7.7,7,50,12,5,IoT Endpoint
+INC-00398,CVE-2021-36547,DDoS,7.5,3,250,1,100,5G Core
+INC-00399,CVE-2022-28532,Man-in-the-Middle Attack,7.8,6,5000,6,100,Cloud Infrastructure
+INC-00400,CVE-2023-46445,Phishing Attack,5.1,4,500,1,1000,Cloud Infrastructure
+INC-00401,CVE-2019-57178,Ransomware,9.4,4,50,1,250,Cloud Infrastructure
+INC-00402,CVE-2022-51990,Man-in-the-Middle Attack,9.5,4,250,24,50,Radio Access Network (RAN)
+INC-00403,CVE-2018-66545,DDoS,9.7,5,250,4,500,Multi-access Edge Computing (MEC)
+INC-00404,CVE-2023-24793,Ransomware,8.0,4,50,8,5,Cloud Infrastructure
+INC-00405,CVE-2020-96084,Phishing Attack,8.5,2,5000,12,50,Cloud Infrastructure
+INC-00406,CVE-2022-2015,Firmware Vulnerability,6.2,3,100,24,20,User Equipment (UE)
+INC-00407,CVE-2018-62813,Data Leakage,8.7,5,5000,12,5,Radio Access Network (RAN)
+INC-00408,CVE-2018-9415,Network Slice Breach,7.9,6,100,4,250,Multi-access Edge Computing (MEC)
+INC-00409,CVE-2024-63292,DDoS,6.8,3,250,2,50,User Equipment (UE)
+INC-00410,CVE-2019-5158,DDoS,8.8,3,50,1,100,Radio Access Network (RAN)
+INC-00411,CVE-2018-21309,DDoS,8.9,3,250,4,50,IoT Endpoint
+INC-00412,CVE-2020-73474,Ransomware,7.6,3,50,2,50,User Equipment (UE)
+INC-00413,CVE-2018-47540,Unauthorized Access,8.2,3,1000,6,5,IoT Endpoint
+INC-00414,CVE-2018-19017,Unauthorized Access,6.0,2,500,6,100,Multi-access Edge Computing (MEC)
+INC-00415,CVE-2018-9702,Unauthorized Access,9.4,3,1000,48,50,Multi-access Edge Computing (MEC)
+INC-00416,CVE-2018-1404,Ransomware,6.2,5,500,8,250,Cloud Infrastructure
+INC-00417,CVE-2024-30189,Network Slice Breach,6.4,2,1000,6,5,IoT Endpoint
+INC-00418,CVE-2021-19384,Phishing Attack,7.6,4,50,2,20,User Equipment (UE)
+INC-00419,CVE-2022-99142,Ransomware,9.2,4,250,1,100,IoT Endpoint
+INC-00420,CVE-2022-81642,Misconfiguration,9.2,3,500,2,500,IoT Endpoint
+INC-00421,CVE-2022-24574,Firmware Vulnerability,7.5,5,250,8,50,IoT Endpoint
+INC-00422,CVE-2022-70172,DDoS,8.7,4,500,2,250,Multi-access Edge Computing (MEC)
+INC-00423,CVE-2022-5809,Phishing Attack,5.0,3,50,8,1000,Multi-access Edge Computing (MEC)
+INC-00424,CVE-2019-54330,Data Leakage,6.4,8,50,6,1000,Multi-access Edge Computing (MEC)
+INC-00425,CVE-2018-57397,Network Slice Breach,6.5,6,1000,1,250,5G Core
+INC-00426,CVE-2018-39765,Unauthorized Access,9.4,3,250,2,250,5G Core
+INC-00427,CVE-2018-46106,Network Slice Breach,8.5,4,50,4,20,5G Core
+INC-00428,CVE-2022-18100,Unauthorized Access,7.8,5,500,4,500,User Equipment (UE)
+INC-00429,CVE-2021-22949,Network Slice Breach,7.9,4,1000,8,50,Radio Access Network (RAN)
+INC-00430,CVE-2018-38744,Data Leakage,9.9,8,50,8,1000,5G Core
+INC-00431,CVE-2019-37187,Man-in-the-Middle Attack,7.2,4,1000,6,5,5G Core
+INC-00432,CVE-2024-8239,Network Slice Breach,5.5,3,5000,12,50,IoT Endpoint
+INC-00433,CVE-2024-15489,Man-in-the-Middle Attack,9.1,7,5000,6,100,5G Core
+INC-00434,CVE-2019-59017,DDoS,7.8,4,1000,48,50,Multi-access Edge Computing (MEC)
+INC-00435,CVE-2023-44125,Ransomware,8.9,4,250,2,20,5G Core
+INC-00436,CVE-2020-95074,Phishing Attack,7.4,8,100,8,100,User Equipment (UE)
+INC-00437,CVE-2019-38131,Ransomware,6.2,5,50,2,250,Cloud Infrastructure
+INC-00438,CVE-2018-74963,DDoS,8.1,2,50,2,100,Cloud Infrastructure
+INC-00439,CVE-2022-25285,DDoS,7.5,6,100,1,20,Radio Access Network (RAN)
+INC-00440,CVE-2020-43808,Ransomware,7.8,7,100,6,250,IoT Endpoint
+INC-00441,CVE-2018-54871,SIM Swap Attack,9.9,4,50,2,20,Multi-access Edge Computing (MEC)
+INC-00442,CVE-2024-20758,Data Leakage,5.9,4,100,2,5,Radio Access Network (RAN)
+INC-00443,CVE-2024-45238,Misconfiguration,7.9,6,50,48,100,Radio Access Network (RAN)
+INC-00444,CVE-2022-40764,Data Leakage,6.3,1,1000,12,500,5G Core
+INC-00445,CVE-2023-38441,Network Slice Breach,4.0,5,100,8,50,User Equipment (UE)
+INC-00446,CVE-2020-54682,Ransomware,7.4,2,250,8,50,5G Core
+INC-00447,CVE-2024-82317,Data Leakage,7.5,5,250,48,20,Multi-access Edge Computing (MEC)
+INC-00448,CVE-2021-7949,DDoS,8.4,7,50,6,50,Multi-access Edge Computing (MEC)
+INC-00449,CVE-2019-56393,Misconfiguration,7.2,0,5000,2,5,Multi-access Edge Computing (MEC)
+INC-00450,CVE-2019-7941,Phishing Attack,5.3,5,250,12,1000,User Equipment (UE)
+INC-00451,CVE-2024-24386,Ransomware,6.3,5,100,8,250,IoT Endpoint
+INC-00452,CVE-2020-62886,SIM Swap Attack,9.5,4,50,4,100,IoT Endpoint
+INC-00453,CVE-2019-84251,Phishing Attack,6.2,3,100,4,50,Multi-access Edge Computing (MEC)
+INC-00454,CVE-2018-54413,Data Leakage,9.9,3,50,4,250,5G Core
+INC-00455,CVE-2018-98239,DDoS,9.1,4,100,24,50,Radio Access Network (RAN)
+INC-00456,CVE-2024-71173,Network Slice Breach,7.0,2,250,2,20,Cloud Infrastructure
+INC-00457,CVE-2024-53329,Network Slice Breach,6.4,3,1000,48,5,Cloud Infrastructure
+INC-00458,CVE-2020-44088,Ransomware,9.1,0,500,24,100,IoT Endpoint
+INC-00459,CVE-2022-40811,DDoS,7.1,1,50,6,1000,5G Core
+INC-00460,CVE-2019-56479,Phishing Attack,5.2,3,50,6,5,5G Core
+INC-00461,CVE-2018-88369,DDoS,8.3,2,100,2,5,Radio Access Network (RAN)
+INC-00462,CVE-2018-20963,Data Leakage,8.1,3,50,1,50,User Equipment (UE)
+INC-00463,CVE-2021-93705,Misconfiguration,9.2,5,50,1,250,IoT Endpoint
+INC-00464,CVE-2023-15388,Firmware Vulnerability,8.0,2,1000,8,20,User Equipment (UE)
+INC-00465,CVE-2019-70836,Ransomware,6.7,5,50,4,20,IoT Endpoint
+INC-00466,CVE-2023-37586,Firmware Vulnerability,9.4,4,1000,1,100,5G Core
+INC-00467,CVE-2020-13015,DDoS,9.6,2,50,2,50,5G Core
+INC-00468,CVE-2020-7254,DDoS,7.8,4,5000,24,5,5G Core
+INC-00469,CVE-2018-25214,Data Leakage,7.6,5,250,2,5,Multi-access Edge Computing (MEC)
+INC-00470,CVE-2024-81719,Unauthorized Access,5.5,3,500,24,100,5G Core
+INC-00471,CVE-2024-7090,Unauthorized Access,6.6,3,50,2,50,IoT Endpoint
+INC-00472,CVE-2023-23415,Network Slice Breach,8.6,2,1000,4,1000,IoT Endpoint
+INC-00473,CVE-2021-42240,Ransomware,6.7,3,1000,1,100,Radio Access Network (RAN)
+INC-00474,CVE-2020-84807,Ransomware,5.3,4,500,4,5,5G Core
+INC-00475,CVE-2020-34434,Network Slice Breach,10.0,2,250,6,50,5G Core
+INC-00476,CVE-2022-76697,Man-in-the-Middle Attack,5.3,5,500,2,50,IoT Endpoint
+INC-00477,CVE-2022-12314,Data Leakage,10.0,1,50,6,5,Multi-access Edge Computing (MEC)
+INC-00478,CVE-2020-58108,Ransomware,7.0,5,250,6,1000,Radio Access Network (RAN)
+INC-00479,CVE-2022-88505,Unauthorized Access,7.4,3,1000,6,250,User Equipment (UE)
+INC-00480,CVE-2021-37668,DDoS,6.5,4,100,8,20,Multi-access Edge Computing (MEC)
+INC-00481,CVE-2023-80252,DDoS,8.7,3,50,2,20,Multi-access Edge Computing (MEC)
+INC-00482,CVE-2023-17907,Phishing Attack,5.3,6,100,6,5,IoT Endpoint
+INC-00483,CVE-2019-94229,Ransomware,4.7,1,500,48,20,User Equipment (UE)
+INC-00484,CVE-2019-92865,DDoS,9.9,4,50,24,100,IoT Endpoint
+INC-00485,CVE-2022-82818,Man-in-the-Middle Attack,6.3,6,50,48,50,Radio Access Network (RAN)
+INC-00486,CVE-2018-24321,Data Leakage,8.6,1,50,2,1000,Radio Access Network (RAN)
+INC-00487,CVE-2018-23574,Data Leakage,5.9,6,500,8,5,User Equipment (UE)
+INC-00488,CVE-2018-44221,Ransomware,8.6,4,50,6,100,Multi-access Edge Computing (MEC)
+INC-00489,CVE-2024-56645,Ransomware,10.0,3,500,1,500,IoT Endpoint
+INC-00490,CVE-2020-20262,Ransomware,6.7,3,100,12,50,User Equipment (UE)
+INC-00491,CVE-2022-5432,DDoS,4.6,3,500,6,5,Cloud Infrastructure
+INC-00492,CVE-2019-65291,Data Leakage,10.0,5,5000,1,20,Radio Access Network (RAN)
+INC-00493,CVE-2018-60399,Firmware Vulnerability,8.9,2,50,1,20,5G Core
+INC-00494,CVE-2018-80714,Man-in-the-Middle Attack,6.8,4,100,12,1000,Radio Access Network (RAN)
+INC-00495,CVE-2022-88731,Phishing Attack,7.2,7,1000,1,500,User Equipment (UE)
+INC-00496,CVE-2024-1302,Unauthorized Access,5.8,3,100,1,1000,Radio Access Network (RAN)
+INC-00497,CVE-2024-1055,Data Leakage,9.6,1,50,4,500,5G Core
+INC-00498,CVE-2023-9717,Unauthorized Access,6.7,5,1000,1,20,5G Core
+INC-00499,CVE-2019-29699,Network Slice Breach,5.4,2,5000,24,500,Radio Access Network (RAN)
+INC-00500,CVE-2024-68661,Network Slice Breach,7.8,6,250,4,1000,5G Core
+INC-00501,CVE-2019-17748,DDoS,6.2,2,100,6,20,5G Core
+INC-00502,CVE-2019-5621,Unauthorized Access,6.0,3,100,24,20,IoT Endpoint
+INC-00503,CVE-2020-6126,SIM Swap Attack,6.9,7,50,4,50,5G Core
+INC-00504,CVE-2020-19030,Ransomware,7.6,3,500,2,5,5G Core
+INC-00505,CVE-2024-85717,DDoS,5.4,7,500,8,5,User Equipment (UE)
+INC-00506,CVE-2020-39638,Unauthorized Access,9.6,2,1000,4,1000,User Equipment (UE)
+INC-00507,CVE-2021-89869,Phishing Attack,8.5,4,50,2,1000,Radio Access Network (RAN)
+INC-00508,CVE-2020-35674,Data Leakage,7.0,3,250,8,5,5G Core
+INC-00509,CVE-2024-47271,Man-in-the-Middle Attack,6.1,3,50,12,50,IoT Endpoint
+INC-00510,CVE-2018-39518,Ransomware,7.4,5,100,8,500,Radio Access Network (RAN)
+INC-00511,CVE-2022-11267,Data Leakage,8.8,5,500,48,100,5G Core
+INC-00512,CVE-2019-2062,Ransomware,8.6,6,50,8,50,5G Core
+INC-00513,CVE-2018-51448,Firmware Vulnerability,9.1,2,250,8,250,5G Core
+INC-00514,CVE-2024-7229,Data Leakage,6.8,7,500,12,500,Multi-access Edge Computing (MEC)
+INC-00515,CVE-2019-48915,Ransomware,4.0,5,5000,1,1000,User Equipment (UE)
+INC-00516,CVE-2018-4596,DDoS,9.4,4,500,2,20,User Equipment (UE)
+INC-00517,CVE-2021-7168,DDoS,7.2,1,1000,8,5,Multi-access Edge Computing (MEC)
+INC-00518,CVE-2021-8561,Unauthorized Access,8.5,8,250,6,500,Radio Access Network (RAN)
+INC-00519,CVE-2020-83152,Ransomware,10.0,1,50,1,5,IoT Endpoint
+INC-00520,CVE-2022-27734,Data Leakage,10.0,5,100,2,250,Radio Access Network (RAN)
+INC-00521,CVE-2021-27069,Network Slice Breach,6.5,0,250,2,5,5G Core
+INC-00522,CVE-2019-13910,Ransomware,7.7,5,500,6,50,IoT Endpoint
+INC-00523,CVE-2018-24275,DDoS,9.6,5,250,12,50,User Equipment (UE)
+INC-00524,CVE-2020-82449,DDoS,6.2,2,100,24,5,Radio Access Network (RAN)
+INC-00525,CVE-2018-61004,Firmware Vulnerability,6.6,3,100,8,1000,User Equipment (UE)
+INC-00526,CVE-2023-85659,Ransomware,6.6,3,50,12,5,Radio Access Network (RAN)
+INC-00527,CVE-2019-49447,Data Leakage,7.5,6,500,4,500,Radio Access Network (RAN)
+INC-00528,CVE-2019-76703,Phishing Attack,7.2,11,250,2,500,5G Core
+INC-00529,CVE-2020-18260,Data Leakage,6.6,3,500,2,20,IoT Endpoint
+INC-00530,CVE-2023-4812,Firmware Vulnerability,6.1,3,100,6,250,User Equipment (UE)
+INC-00531,CVE-2018-59656,Unauthorized Access,8.7,4,100,1,20,IoT Endpoint
+INC-00532,CVE-2022-28285,SIM Swap Attack,9.5,3,500,6,250,5G Core
+INC-00533,CVE-2022-2605,DDoS,9.7,4,500,6,100,5G Core
+INC-00534,CVE-2024-73303,DDoS,6.8,8,250,4,20,Multi-access Edge Computing (MEC)
+INC-00535,CVE-2021-78149,Data Leakage,8.8,2,250,48,50,Radio Access Network (RAN)
+INC-00536,CVE-2020-77125,Misconfiguration,7.9,2,100,6,100,Radio Access Network (RAN)
+INC-00537,CVE-2024-86655,Phishing Attack,6.6,3,500,2,500,Cloud Infrastructure
+INC-00538,CVE-2024-14046,DDoS,8.6,1,1000,4,5,IoT Endpoint
+INC-00539,CVE-2020-25818,Ransomware,6.6,3,500,6,100,Radio Access Network (RAN)
+INC-00540,CVE-2024-5324,Misconfiguration,6.9,3,250,2,20,5G Core
+INC-00541,CVE-2021-10111,Ransomware,5.4,5,250,1,250,5G Core
+INC-00542,CVE-2024-17389,Phishing Attack,6.8,4,250,6,5,IoT Endpoint
+INC-00543,CVE-2019-42427,Phishing Attack,7.9,4,500,24,100,User Equipment (UE)
+INC-00544,CVE-2021-29746,Network Slice Breach,9.9,5,250,4,5,IoT Endpoint
+INC-00545,CVE-2021-88886,Unauthorized Access,7.0,2,250,24,100,Radio Access Network (RAN)
+INC-00546,CVE-2023-1117,Unauthorized Access,5.9,4,50,12,500,5G Core
+INC-00547,CVE-2018-85471,Ransomware,9.7,7,5000,1,250,Cloud Infrastructure
+INC-00548,CVE-2023-14234,Firmware Vulnerability,6.7,1,500,8,250,Cloud Infrastructure
+INC-00549,CVE-2023-54441,Unauthorized Access,4.9,3,100,4,50,Multi-access Edge Computing (MEC)
+INC-00550,CVE-2024-11954,Firmware Vulnerability,7.7,4,250,2,500,5G Core
+INC-00551,CVE-2019-47514,DDoS,7.0,2,50,6,100,Multi-access Edge Computing (MEC)
+INC-00552,CVE-2022-98579,SIM Swap Attack,10.0,1,50,8,500,User Equipment (UE)
+INC-00553,CVE-2022-7469,Unauthorized Access,8.2,6,100,1,50,IoT Endpoint
+INC-00554,CVE-2019-43101,DDoS,7.3,2,500,24,50,IoT Endpoint
+INC-00555,CVE-2021-92922,DDoS,6.1,2,1000,8,20,5G Core
+INC-00556,CVE-2021-50376,Man-in-the-Middle Attack,8.0,1,250,24,50,5G Core
+INC-00557,CVE-2021-37976,Data Leakage,9.7,2,250,2,5,5G Core
+INC-00558,CVE-2021-68584,Phishing Attack,8.0,3,100,24,500,Cloud Infrastructure
+INC-00559,CVE-2019-79477,DDoS,6.2,2,50,2,100,Multi-access Edge Computing (MEC)
+INC-00560,CVE-2023-2828,DDoS,8.3,6,50,1,1000,User Equipment (UE)
+INC-00561,CVE-2023-21618,Network Slice Breach,7.4,6,500,8,5,5G Core
+INC-00562,CVE-2024-48362,Unauthorized Access,8.2,3,5000,8,20,Cloud Infrastructure
+INC-00563,CVE-2018-60383,Unauthorized Access,7.0,5,250,6,500,User Equipment (UE)
+INC-00564,CVE-2019-83180,SIM Swap Attack,6.9,2,500,4,50,5G Core
+INC-00565,CVE-2024-10865,SIM Swap Attack,6.9,3,1000,1,50,User Equipment (UE)
+INC-00566,CVE-2021-40809,Misconfiguration,8.9,4,50,6,500,Radio Access Network (RAN)
+INC-00567,CVE-2022-6287,Phishing Attack,6.9,4,500,4,50,5G Core
+INC-00568,CVE-2019-35387,Unauthorized Access,6.8,4,250,6,5,Radio Access Network (RAN)
+INC-00569,CVE-2018-2342,Unauthorized Access,6.1,0,250,4,500,Cloud Infrastructure
+INC-00570,CVE-2022-20216,Network Slice Breach,8.2,3,100,48,5,Cloud Infrastructure
+INC-00571,CVE-2018-94070,Firmware Vulnerability,8.0,2,500,6,500,Radio Access Network (RAN)
+INC-00572,CVE-2023-27614,DDoS,6.8,5,500,8,5,IoT Endpoint
+INC-00573,CVE-2020-94789,Unauthorized Access,6.4,4,50,24,100,IoT Endpoint
+INC-00574,CVE-2024-84524,DDoS,10.0,11,250,6,5,User Equipment (UE)
+INC-00575,CVE-2023-13219,Network Slice Breach,4.7,4,50,1,250,Radio Access Network (RAN)
+INC-00576,CVE-2021-43929,Misconfiguration,8.2,3,1000,1,5,Multi-access Edge Computing (MEC)
+INC-00577,CVE-2023-68444,Phishing Attack,9.4,2,250,8,500,IoT Endpoint
+INC-00578,CVE-2020-71792,Ransomware,4.0,9,1000,2,50,5G Core
+INC-00579,CVE-2019-85555,SIM Swap Attack,8.7,1,100,6,5,Radio Access Network (RAN)
+INC-00580,CVE-2020-6415,Data Leakage,7.2,4,50,2,250,IoT Endpoint
+INC-00581,CVE-2023-6951,DDoS,7.9,7,50,2,50,Radio Access Network (RAN)
+INC-00582,CVE-2022-9007,Ransomware,7.0,3,100,4,5,Cloud Infrastructure
+INC-00583,CVE-2020-42832,Ransomware,9.1,3,50,48,5,5G Core
+INC-00584,CVE-2022-31523,DDoS,8.0,6,250,6,50,Cloud Infrastructure
+INC-00585,CVE-2023-87740,SIM Swap Attack,7.7,4,50,24,5,5G Core
+INC-00586,CVE-2022-20282,Network Slice Breach,6.2,5,250,48,5,5G Core
+INC-00587,CVE-2020-1077,Misconfiguration,10.0,9,100,2,20,Radio Access Network (RAN)
+INC-00588,CVE-2019-21611,Ransomware,7.5,0,250,2,100,User Equipment (UE)
+INC-00589,CVE-2018-15060,DDoS,10.0,6,500,8,50,User Equipment (UE)
+INC-00590,CVE-2019-85056,Network Slice Breach,10.0,5,250,12,5,5G Core
+INC-00591,CVE-2019-44303,DDoS,4.8,3,5000,4,1000,5G Core
+INC-00592,CVE-2024-30287,Network Slice Breach,6.5,6,50,48,500,IoT Endpoint
+INC-00593,CVE-2023-40711,Misconfiguration,5.9,3,100,1,20,Multi-access Edge Computing (MEC)
+INC-00594,CVE-2020-74340,Network Slice Breach,7.4,7,100,2,5,User Equipment (UE)
+INC-00595,CVE-2023-72520,Data Leakage,7.8,5,100,6,1000,5G Core
+INC-00596,CVE-2024-19574,DDoS,7.8,7,500,4,50,IoT Endpoint
+INC-00597,CVE-2018-20096,DDoS,9.1,4,250,1,20,IoT Endpoint
+INC-00598,CVE-2018-35016,DDoS,9.7,4,250,2,50,Cloud Infrastructure
+INC-00599,CVE-2024-46558,Data Leakage,9.0,2,100,1,250,IoT Endpoint
+INC-00600,CVE-2019-19381,DDoS,6.7,6,5000,6,5,5G Core
+INC-00601,CVE-2022-37455,Unauthorized Access,6.3,3,5000,24,250,5G Core
+INC-00602,CVE-2020-12302,Network Slice Breach,7.5,5,100,24,250,IoT Endpoint
+INC-00603,CVE-2020-42157,Unauthorized Access,8.1,3,50,6,50,Multi-access Edge Computing (MEC)
+INC-00604,CVE-2023-93738,DDoS,7.2,7,1000,4,500,User Equipment (UE)
+INC-00605,CVE-2024-84122,Ransomware,5.5,4,5000,4,5,IoT Endpoint
+INC-00606,CVE-2019-88487,Misconfiguration,8.5,2,100,1,100,Multi-access Edge Computing (MEC)
+INC-00607,CVE-2021-81910,Man-in-the-Middle Attack,6.9,1,100,2,50,Radio Access Network (RAN)
+INC-00608,CVE-2024-72324,Network Slice Breach,6.9,3,5000,1,50,Radio Access Network (RAN)
+INC-00609,CVE-2018-60379,DDoS,7.4,9,500,12,20,5G Core
+INC-00610,CVE-2023-10446,SIM Swap Attack,7.1,7,100,24,20,5G Core
+INC-00611,CVE-2020-99723,Man-in-the-Middle Attack,7.0,6,250,4,5,Multi-access Edge Computing (MEC)
+INC-00612,CVE-2022-11789,Ransomware,5.6,3,5000,8,20,5G Core
+INC-00613,CVE-2018-67656,Firmware Vulnerability,7.3,3,1000,1,20,5G Core
+INC-00614,CVE-2022-65484,Ransomware,8.6,5,500,6,250,5G Core
+INC-00615,CVE-2020-83870,Network Slice Breach,7.9,6,500,8,5,5G Core
+INC-00616,CVE-2018-68779,Data Leakage,8.9,4,50,4,100,5G Core
+INC-00617,CVE-2023-60201,Ransomware,6.4,3,1000,2,20,IoT Endpoint
+INC-00618,CVE-2019-44872,SIM Swap Attack,5.6,4,100,12,5,Radio Access Network (RAN)
+INC-00619,CVE-2023-56180,Man-in-the-Middle Attack,7.1,9,5000,8,20,Multi-access Edge Computing (MEC)
+INC-00620,CVE-2024-30486,Network Slice Breach,6.6,3,100,24,20,IoT Endpoint
+INC-00621,CVE-2021-72895,Ransomware,6.7,5,1000,12,100,Cloud Infrastructure
+INC-00622,CVE-2021-41631,DDoS,7.8,9,100,48,20,5G Core
+INC-00623,CVE-2024-21103,Ransomware,6.7,5,250,1,1000,Radio Access Network (RAN)
+INC-00624,CVE-2022-15382,Man-in-the-Middle Attack,5.6,1,50,1,1000,5G Core
+INC-00625,CVE-2021-4756,Ransomware,6.7,1,500,2,50,Multi-access Edge Computing (MEC)
+INC-00626,CVE-2019-17478,Network Slice Breach,8.0,6,1000,1,250,Cloud Infrastructure
+INC-00627,CVE-2020-40666,Man-in-the-Middle Attack,8.5,4,500,4,5,IoT Endpoint
+INC-00628,CVE-2021-72315,DDoS,8.5,6,250,6,50,IoT Endpoint
+INC-00629,CVE-2020-15153,Man-in-the-Middle Attack,8.1,8,50,6,250,Radio Access Network (RAN)
+INC-00630,CVE-2023-13999,DDoS,7.2,4,5000,2,20,IoT Endpoint
+INC-00631,CVE-2024-1814,SIM Swap Attack,8.1,5,500,24,5,5G Core
+INC-00632,CVE-2019-77077,Network Slice Breach,7.4,6,500,1,5,Multi-access Edge Computing (MEC)
+INC-00633,CVE-2020-3443,DDoS,7.7,5,500,2,50,Multi-access Edge Computing (MEC)
+INC-00634,CVE-2019-76916,Unauthorized Access,6.1,2,500,8,50,Radio Access Network (RAN)
+INC-00635,CVE-2023-18368,Unauthorized Access,7.6,5,100,8,50,5G Core
+INC-00636,CVE-2018-57942,Man-in-the-Middle Attack,8.1,6,500,4,50,User Equipment (UE)
+INC-00637,CVE-2021-28306,Man-in-the-Middle Attack,8.0,2,250,1,50,5G Core
+INC-00638,CVE-2021-40915,Data Leakage,5.6,5,1000,6,250,5G Core
+INC-00639,CVE-2021-81879,DDoS,7.6,5,1000,1,5,Radio Access Network (RAN)
+INC-00640,CVE-2021-65644,DDoS,5.3,4,50,1,250,Radio Access Network (RAN)
+INC-00641,CVE-2022-1126,DDoS,7.8,4,100,6,100,IoT Endpoint
+INC-00642,CVE-2019-28632,Data Leakage,6.4,5,50,2,250,IoT Endpoint
+INC-00643,CVE-2021-66310,Firmware Vulnerability,10.0,3,50,2,250,User Equipment (UE)
+INC-00644,CVE-2019-56176,Unauthorized Access,7.7,4,250,4,50,Radio Access Network (RAN)
+INC-00645,CVE-2023-87066,DDoS,8.7,6,1000,48,20,IoT Endpoint
+INC-00646,CVE-2022-45327,Network Slice Breach,10.0,5,50,48,50,User Equipment (UE)
+INC-00647,CVE-2018-4797,Phishing Attack,6.3,3,250,4,1000,Radio Access Network (RAN)
+INC-00648,CVE-2020-14718,Man-in-the-Middle Attack,8.2,5,1000,2,100,Radio Access Network (RAN)
+INC-00649,CVE-2018-77589,Firmware Vulnerability,5.7,5,1000,2,5,User Equipment (UE)
+INC-00650,CVE-2022-37244,Ransomware,8.0,5,250,2,5,5G Core
+INC-00651,CVE-2019-2645,Ransomware,10.0,0,500,4,1000,Radio Access Network (RAN)
+INC-00652,CVE-2021-20256,Firmware Vulnerability,6.6,4,250,6,5,5G Core
+INC-00653,CVE-2018-54173,Data Leakage,6.2,3,50,4,5,5G Core
+INC-00654,CVE-2024-40282,Ransomware,7.4,2,50,4,20,5G Core
+INC-00655,CVE-2024-69244,Man-in-the-Middle Attack,10.0,0,50,2,1000,Radio Access Network (RAN)
+INC-00656,CVE-2024-57264,Phishing Attack,8.7,3,100,4,20,IoT Endpoint
+INC-00657,CVE-2022-98416,Data Leakage,6.1,4,5000,2,50,Radio Access Network (RAN)
+INC-00658,CVE-2019-40224,Man-in-the-Middle Attack,9.7,2,500,4,100,User Equipment (UE)
+INC-00659,CVE-2022-98945,Unauthorized Access,5.0,3,100,6,5,Radio Access Network (RAN)
+INC-00660,CVE-2018-41738,Network Slice Breach,10.0,0,250,6,500,Cloud Infrastructure
+INC-00661,CVE-2024-64731,Network Slice Breach,8.8,4,100,4,50,Cloud Infrastructure
+INC-00662,CVE-2018-74509,Firmware Vulnerability,10.0,7,500,6,50,User Equipment (UE)
+INC-00663,CVE-2019-9070,Firmware Vulnerability,5.0,6,1000,2,500,Cloud Infrastructure
+INC-00664,CVE-2019-9666,Firmware Vulnerability,7.8,3,50,1,1000,IoT Endpoint
+INC-00665,CVE-2019-37368,DDoS,7.3,3,50,6,50,User Equipment (UE)
+INC-00666,CVE-2020-42914,Man-in-the-Middle Attack,6.0,4,250,2,5,5G Core
+INC-00667,CVE-2021-80026,Man-in-the-Middle Attack,5.6,4,250,6,250,Radio Access Network (RAN)
+INC-00668,CVE-2023-68526,Man-in-the-Middle Attack,8.3,3,100,8,50,User Equipment (UE)
+INC-00669,CVE-2021-46765,Man-in-the-Middle Attack,8.4,2,250,24,1000,Radio Access Network (RAN)
+INC-00670,CVE-2022-88895,Firmware Vulnerability,9.4,3,250,48,1000,User Equipment (UE)
+INC-00671,CVE-2018-38148,Network Slice Breach,6.7,7,100,1,5,User Equipment (UE)
+INC-00672,CVE-2024-5757,Network Slice Breach,7.3,2,100,48,1000,Radio Access Network (RAN)
+INC-00673,CVE-2019-11395,DDoS,5.4,3,100,6,20,User Equipment (UE)
+INC-00674,CVE-2019-28696,Unauthorized Access,9.8,3,1000,6,100,5G Core
+INC-00675,CVE-2024-71480,Data Leakage,7.6,9,5000,1,5,Radio Access Network (RAN)
+INC-00676,CVE-2021-20816,Phishing Attack,8.6,1,1000,12,500,Multi-access Edge Computing (MEC)
+INC-00677,CVE-2018-53853,Ransomware,8.6,3,500,1,100,5G Core
+INC-00678,CVE-2023-97731,DDoS,9.7,9,250,12,100,Multi-access Edge Computing (MEC)
+INC-00679,CVE-2024-76452,Data Leakage,6.3,3,500,1,500,Multi-access Edge Computing (MEC)
+INC-00680,CVE-2018-21806,DDoS,8.5,5,5000,6,50,5G Core
+INC-00681,CVE-2018-2759,DDoS,7.5,3,50,4,50,User Equipment (UE)
+INC-00682,CVE-2022-42949,DDoS,10.0,6,250,2,500,IoT Endpoint
+INC-00683,CVE-2024-3482,DDoS,6.2,6,500,1,250,Radio Access Network (RAN)
+INC-00684,CVE-2020-34719,Ransomware,9.3,5,500,4,1000,5G Core
+INC-00685,CVE-2020-94501,Unauthorized Access,8.0,4,100,1,1000,User Equipment (UE)
+INC-00686,CVE-2023-60676,Unauthorized Access,7.9,3,250,4,50,User Equipment (UE)
+INC-00687,CVE-2018-87444,Firmware Vulnerability,7.6,4,500,6,50,5G Core
+INC-00688,CVE-2022-91397,Network Slice Breach,9.5,3,250,12,20,5G Core
+INC-00689,CVE-2020-19449,Man-in-the-Middle Attack,7.9,2,500,6,100,User Equipment (UE)
+INC-00690,CVE-2018-65077,DDoS,5.2,3,100,1,20,IoT Endpoint
+INC-00691,CVE-2020-49302,Ransomware,9.3,5,5000,2,250,5G Core
+INC-00692,CVE-2019-29865,Man-in-the-Middle Attack,9.1,4,250,2,5,Multi-access Edge Computing (MEC)
+INC-00693,CVE-2023-39000,DDoS,8.4,4,250,24,5,Multi-access Edge Computing (MEC)
+INC-00694,CVE-2019-12485,Network Slice Breach,5.8,7,50,12,20,User Equipment (UE)
+INC-00695,CVE-2023-26522,Data Leakage,6.0,2,50,2,5,5G Core
+INC-00696,CVE-2024-66155,Data Leakage,4.7,6,250,1,100,Multi-access Edge Computing (MEC)
+INC-00697,CVE-2018-53487,DDoS,8.2,7,100,24,5,5G Core
+INC-00698,CVE-2022-13342,Ransomware,5.5,5,250,24,5,Cloud Infrastructure
+INC-00699,CVE-2024-49770,Data Leakage,4.9,2,50,12,5,User Equipment (UE)
+INC-00700,CVE-2019-76629,DDoS,9.4,5,1000,12,250,IoT Endpoint
+INC-00701,CVE-2019-53603,Man-in-the-Middle Attack,8.7,0,500,4,250,IoT Endpoint
+INC-00702,CVE-2018-82974,Man-in-the-Middle Attack,7.0,3,50,1,5,Radio Access Network (RAN)
+INC-00703,CVE-2021-27399,SIM Swap Attack,7.3,5,250,4,250,Cloud Infrastructure
+INC-00704,CVE-2019-86382,Ransomware,4.0,5,1000,4,50,5G Core
+INC-00705,CVE-2022-77534,Phishing Attack,8.9,9,250,4,20,User Equipment (UE)
+INC-00706,CVE-2020-31678,Network Slice Breach,6.5,1,100,4,100,5G Core
+INC-00707,CVE-2020-64230,Unauthorized Access,8.0,4,500,2,5,Radio Access Network (RAN)
+INC-00708,CVE-2022-75055,DDoS,4.0,2,50,2,250,Multi-access Edge Computing (MEC)
+INC-00709,CVE-2023-32480,Man-in-the-Middle Attack,9.0,5,100,4,5,User Equipment (UE)
+INC-00710,CVE-2024-69836,Ransomware,6.4,3,50,1,1000,User Equipment (UE)
+INC-00711,CVE-2020-40986,Unauthorized Access,5.4,6,250,4,5,Multi-access Edge Computing (MEC)
+INC-00712,CVE-2018-86595,DDoS,7.0,5,50,12,100,Radio Access Network (RAN)
+INC-00713,CVE-2024-80111,Phishing Attack,6.6,5,5000,12,500,Cloud Infrastructure
+INC-00714,CVE-2019-74506,Phishing Attack,9.1,2,100,4,5,5G Core
+INC-00715,CVE-2023-76039,Man-in-the-Middle Attack,6.9,3,50,4,50,User Equipment (UE)
+INC-00716,CVE-2023-85458,Ransomware,9.5,2,250,1,20,IoT Endpoint
+INC-00717,CVE-2021-55771,DDoS,8.0,6,100,6,100,Radio Access Network (RAN)
+INC-00718,CVE-2022-87925,Data Leakage,8.8,3,250,4,20,5G Core
+INC-00719,CVE-2024-67358,Network Slice Breach,7.5,0,100,4,5,Radio Access Network (RAN)
+INC-00720,CVE-2019-7150,DDoS,9.4,7,50,12,100,Radio Access Network (RAN)
+INC-00721,CVE-2019-17032,Man-in-the-Middle Attack,5.8,4,100,4,50,5G Core
+INC-00722,CVE-2024-61500,SIM Swap Attack,7.7,5,100,1,100,5G Core
+INC-00723,CVE-2020-21079,Man-in-the-Middle Attack,6.9,4,50,2,20,Radio Access Network (RAN)
+INC-00724,CVE-2022-42874,Man-in-the-Middle Attack,9.6,6,500,4,20,IoT Endpoint
+INC-00725,CVE-2021-51460,SIM Swap Attack,9.7,4,250,4,100,User Equipment (UE)
+INC-00726,CVE-2021-9705,Ransomware,7.5,4,250,12,100,5G Core
+INC-00727,CVE-2018-24236,Network Slice Breach,5.6,2,250,4,20,Radio Access Network (RAN)
+INC-00728,CVE-2021-86514,SIM Swap Attack,8.1,5,250,6,20,Radio Access Network (RAN)
+INC-00729,CVE-2019-16358,DDoS,5.0,3,5000,4,20,Multi-access Edge Computing (MEC)
+INC-00730,CVE-2019-95914,Man-in-the-Middle Attack,9.9,2,50,4,5,User Equipment (UE)
+INC-00731,CVE-2024-77918,Data Leakage,6.8,1,50,4,20,Multi-access Edge Computing (MEC)
+INC-00732,CVE-2021-15596,Data Leakage,7.5,4,50,4,5,User Equipment (UE)
+INC-00733,CVE-2022-79757,Man-in-the-Middle Attack,6.5,4,50,4,100,Multi-access Edge Computing (MEC)
+INC-00734,CVE-2023-63516,Misconfiguration,6.1,6,50,2,100,IoT Endpoint
+INC-00735,CVE-2021-18771,Phishing Attack,8.6,5,500,24,50,Radio Access Network (RAN)
+INC-00736,CVE-2018-49285,DDoS,7.3,4,250,2,20,User Equipment (UE)
+INC-00737,CVE-2020-91093,Firmware Vulnerability,7.6,0,5000,1,20,Cloud Infrastructure
+INC-00738,CVE-2024-87143,Ransomware,6.0,5,50,1,50,IoT Endpoint
+INC-00739,CVE-2018-29529,Unauthorized Access,8.8,2,100,1,500,User Equipment (UE)
+INC-00740,CVE-2020-28856,Unauthorized Access,8.9,5,5000,4,100,5G Core
+INC-00741,CVE-2023-79344,Network Slice Breach,7.2,1,1000,1,250,Cloud Infrastructure
+INC-00742,CVE-2019-61774,Unauthorized Access,9.4,7,250,1,500,5G Core
+INC-00743,CVE-2018-56029,Misconfiguration,7.3,2,250,4,20,Radio Access Network (RAN)
+INC-00744,CVE-2023-52693,Man-in-the-Middle Attack,8.7,3,1000,6,5,5G Core
+INC-00745,CVE-2021-56961,Data Leakage,5.1,5,250,1,100,Cloud Infrastructure
+INC-00746,CVE-2019-77908,DDoS,8.0,4,50,4,5,User Equipment (UE)
+INC-00747,CVE-2019-75532,Misconfiguration,7.1,5,1000,8,100,Cloud Infrastructure
+INC-00748,CVE-2020-57133,Misconfiguration,7.7,6,250,48,250,User Equipment (UE)
+INC-00749,CVE-2019-62268,Phishing Attack,7.7,4,50,6,250,Multi-access Edge Computing (MEC)
+INC-00750,CVE-2019-39243,DDoS,7.7,3,250,2,20,Cloud Infrastructure
+INC-00751,CVE-2018-32653,DDoS,8.4,4,100,8,50,Cloud Infrastructure
+INC-00752,CVE-2019-40952,Ransomware,6.7,4,1000,6,100,Multi-access Edge Computing (MEC)
+INC-00753,CVE-2022-98432,DDoS,8.4,5,50,2,250,5G Core
+INC-00754,CVE-2023-79411,Unauthorized Access,9.3,5,1000,12,250,IoT Endpoint
+INC-00755,CVE-2024-49756,Misconfiguration,5.4,7,250,4,1000,Cloud Infrastructure
+INC-00756,CVE-2019-17725,Network Slice Breach,6.3,3,100,48,5,User Equipment (UE)
+INC-00757,CVE-2022-52226,DDoS,6.4,1,50,8,50,User Equipment (UE)
+INC-00758,CVE-2018-82182,Ransomware,5.9,7,500,6,20,Cloud Infrastructure
+INC-00759,CVE-2023-30402,DDoS,6.8,3,5000,8,5,User Equipment (UE)
+INC-00760,CVE-2019-97523,DDoS,9.0,4,100,4,500,User Equipment (UE)
+INC-00761,CVE-2022-48924,Ransomware,9.7,5,50,4,1000,IoT Endpoint
+INC-00762,CVE-2024-94065,Ransomware,7.7,4,250,12,5,Radio Access Network (RAN)
+INC-00763,CVE-2022-12664,Phishing Attack,7.0,3,500,6,5,IoT Endpoint
+INC-00764,CVE-2019-90563,SIM Swap Attack,8.7,9,50,24,20,Multi-access Edge Computing (MEC)
+INC-00765,CVE-2023-37397,Unauthorized Access,4.0,4,250,24,500,User Equipment (UE)
+INC-00766,CVE-2019-39709,Unauthorized Access,5.9,2,250,48,20,Multi-access Edge Computing (MEC)
+INC-00767,CVE-2020-62120,Firmware Vulnerability,4.0,2,100,8,5,5G Core
+INC-00768,CVE-2020-22172,Ransomware,5.9,1,250,4,5,5G Core
+INC-00769,CVE-2021-88410,DDoS,6.3,3,50,1,50,IoT Endpoint
+INC-00770,CVE-2019-54276,Firmware Vulnerability,9.7,3,500,8,1000,Multi-access Edge Computing (MEC)
+INC-00771,CVE-2022-54002,DDoS,4.0,10,250,2,20,Radio Access Network (RAN)
+INC-00772,CVE-2020-90599,Data Leakage,6.9,8,250,2,50,5G Core
+INC-00773,CVE-2021-92248,Network Slice Breach,8.4,2,100,2,5,Multi-access Edge Computing (MEC)
+INC-00774,CVE-2020-12046,Unauthorized Access,8.1,4,100,12,50,5G Core
+INC-00775,CVE-2020-29769,Ransomware,9.7,3,1000,12,100,Radio Access Network (RAN)
+INC-00776,CVE-2024-24150,Phishing Attack,7.7,4,250,6,20,Radio Access Network (RAN)
+INC-00777,CVE-2023-95613,DDoS,8.1,4,250,4,20,Multi-access Edge Computing (MEC)
+INC-00778,CVE-2022-90399,Ransomware,4.7,4,250,6,500,Multi-access Edge Computing (MEC)
+INC-00779,CVE-2018-60129,Man-in-the-Middle Attack,6.0,3,100,6,5,Radio Access Network (RAN)
+INC-00780,CVE-2021-75478,Network Slice Breach,4.8,4,100,4,100,User Equipment (UE)
+INC-00781,CVE-2021-68298,DDoS,8.4,5,50,2,50,Radio Access Network (RAN)
+INC-00782,CVE-2021-16850,Firmware Vulnerability,8.0,1,50,2,20,5G Core
+INC-00783,CVE-2018-25058,Unauthorized Access,8.0,5,500,6,100,5G Core
+INC-00784,CVE-2022-39890,Phishing Attack,6.2,2,50,6,500,Radio Access Network (RAN)
+INC-00785,CVE-2019-48304,Phishing Attack,6.0,4,50,4,100,5G Core
+INC-00786,CVE-2019-2524,Data Leakage,7.8,3,500,48,5,5G Core
+INC-00787,CVE-2018-16048,Network Slice Breach,6.5,4,50,1,50,IoT Endpoint
+INC-00788,CVE-2018-55912,SIM Swap Attack,6.0,4,250,2,50,IoT Endpoint
+INC-00789,CVE-2018-1060,DDoS,6.7,2,100,4,50,Multi-access Edge Computing (MEC)
+INC-00790,CVE-2020-84559,Man-in-the-Middle Attack,6.5,7,50,1,100,User Equipment (UE)
+INC-00791,CVE-2019-14350,Ransomware,6.2,2,100,2,5,5G Core
+INC-00792,CVE-2020-46186,Unauthorized Access,5.7,3,50,2,50,Cloud Infrastructure
+INC-00793,CVE-2019-35020,Ransomware,8.2,5,1000,4,100,5G Core
+INC-00794,CVE-2021-76186,Misconfiguration,9.8,4,250,2,20,IoT Endpoint
+INC-00795,CVE-2023-21581,SIM Swap Attack,7.4,5,50,8,100,5G Core
+INC-00796,CVE-2019-24051,Ransomware,7.8,2,50,4,20,User Equipment (UE)
+INC-00797,CVE-2020-92748,DDoS,8.3,5,100,1,20,Multi-access Edge Computing (MEC)
+INC-00798,CVE-2021-70626,Man-in-the-Middle Attack,8.0,3,50,8,1000,5G Core
+INC-00799,CVE-2018-36772,Unauthorized Access,6.2,5,100,1,20,IoT Endpoint
+INC-00800,CVE-2018-50481,DDoS,10.0,4,250,12,20,5G Core
+INC-00801,CVE-2018-95006,Man-in-the-Middle Attack,6.4,4,1000,24,100,User Equipment (UE)
+INC-00802,CVE-2018-58134,Network Slice Breach,8.5,3,100,2,1000,IoT Endpoint
+INC-00803,CVE-2021-2341,SIM Swap Attack,8.3,7,500,24,1000,5G Core
+INC-00804,CVE-2020-72431,Ransomware,4.6,4,1000,8,100,Radio Access Network (RAN)
+INC-00805,CVE-2024-52860,Unauthorized Access,7.0,7,50,24,5,5G Core
+INC-00806,CVE-2018-2750,Network Slice Breach,7.6,8,1000,6,500,IoT Endpoint
+INC-00807,CVE-2022-68957,Phishing Attack,7.7,1,500,2,100,Radio Access Network (RAN)
+INC-00808,CVE-2023-71855,Network Slice Breach,8.0,4,100,24,20,Multi-access Edge Computing (MEC)
+INC-00809,CVE-2018-56761,Data Leakage,8.6,1,5000,1,500,Cloud Infrastructure
+INC-00810,CVE-2018-78454,Ransomware,7.5,3,100,2,50,Radio Access Network (RAN)
+INC-00811,CVE-2020-91600,Firmware Vulnerability,8.0,8,100,2,5,Cloud Infrastructure
+INC-00812,CVE-2022-28935,Unauthorized Access,7.4,6,500,2,500,IoT Endpoint
+INC-00813,CVE-2019-30711,DDoS,6.0,5,100,4,50,5G Core
+INC-00814,CVE-2024-13182,Data Leakage,7.5,4,100,8,20,Radio Access Network (RAN)
+INC-00815,CVE-2019-57276,Ransomware,8.6,7,50,24,20,IoT Endpoint
+INC-00816,CVE-2023-95457,DDoS,9.2,9,500,1,100,Radio Access Network (RAN)
+INC-00817,CVE-2024-45813,Firmware Vulnerability,8.3,4,500,48,20,5G Core
+INC-00818,CVE-2024-9820,Unauthorized Access,9.5,1,250,24,20,5G Core
+INC-00819,CVE-2024-70768,Man-in-the-Middle Attack,8.1,9,5000,1,100,User Equipment (UE)
+INC-00820,CVE-2020-81559,Ransomware,8.8,4,100,2,500,IoT Endpoint
+INC-00821,CVE-2019-42786,Phishing Attack,8.9,5,50,12,50,Multi-access Edge Computing (MEC)
+INC-00822,CVE-2024-7737,DDoS,7.2,2,500,6,250,5G Core
+INC-00823,CVE-2024-55237,Unauthorized Access,8.6,4,500,8,250,User Equipment (UE)
+INC-00824,CVE-2021-26510,SIM Swap Attack,6.1,3,50,8,100,Cloud Infrastructure
+INC-00825,CVE-2020-38265,Phishing Attack,8.0,5,50,4,20,5G Core
+INC-00826,CVE-2020-67150,Network Slice Breach,8.4,8,1000,1,500,5G Core
+INC-00827,CVE-2018-90613,Unauthorized Access,9.1,5,5000,6,50,User Equipment (UE)
+INC-00828,CVE-2024-53375,Firmware Vulnerability,8.7,5,250,1,5,User Equipment (UE)
+INC-00829,CVE-2020-36435,Network Slice Breach,9.1,3,100,6,20,IoT Endpoint
+INC-00830,CVE-2021-58132,Man-in-the-Middle Attack,7.4,9,5000,12,250,Cloud Infrastructure
+INC-00831,CVE-2019-83050,Man-in-the-Middle Attack,7.0,3,1000,6,5,IoT Endpoint
+INC-00832,CVE-2022-96402,DDoS,7.1,4,250,48,5,5G Core
+INC-00833,CVE-2019-21662,DDoS,7.9,3,1000,4,100,IoT Endpoint
+INC-00834,CVE-2024-79187,Data Leakage,4.8,3,1000,8,500,IoT Endpoint
+INC-00835,CVE-2024-57846,DDoS,9.5,2,5000,6,100,Cloud Infrastructure
+INC-00836,CVE-2018-45547,Ransomware,7.6,6,1000,48,20,5G Core
+INC-00837,CVE-2022-16317,Misconfiguration,6.9,4,250,8,5,Multi-access Edge Computing (MEC)
+INC-00838,CVE-2018-8564,Network Slice Breach,4.0,3,250,1,100,User Equipment (UE)
+INC-00839,CVE-2019-95223,Man-in-the-Middle Attack,7.4,3,250,48,5,Radio Access Network (RAN)
+INC-00840,CVE-2022-80273,Network Slice Breach,7.2,5,250,6,100,Radio Access Network (RAN)
+INC-00841,CVE-2021-81765,Network Slice Breach,6.2,5,500,1,20,User Equipment (UE)
+INC-00842,CVE-2019-75038,DDoS,6.5,2,5000,6,500,Radio Access Network (RAN)
+INC-00843,CVE-2020-53393,Unauthorized Access,7.5,5,250,24,50,IoT Endpoint
+INC-00844,CVE-2019-30430,Ransomware,6.6,7,250,6,20,User Equipment (UE)
+INC-00845,CVE-2022-28788,Unauthorized Access,8.4,5,100,2,500,5G Core
+INC-00846,CVE-2019-49543,Phishing Attack,6.4,5,500,12,20,Cloud Infrastructure
+INC-00847,CVE-2020-97122,Unauthorized Access,7.7,6,250,8,20,IoT Endpoint
+INC-00848,CVE-2024-17371,Unauthorized Access,9.3,2,50,4,500,Multi-access Edge Computing (MEC)
+INC-00849,CVE-2022-30629,Unauthorized Access,7.4,4,250,1,20,Radio Access Network (RAN)
+INC-00850,CVE-2018-62916,DDoS,8.0,1,50,2,50,Cloud Infrastructure
+INC-00851,CVE-2023-74972,Unauthorized Access,7.9,2,50,8,20,5G Core
+INC-00852,CVE-2021-13984,Ransomware,7.5,2,500,12,5,Radio Access Network (RAN)
+INC-00853,CVE-2021-59606,Ransomware,7.4,2,100,2,5,Radio Access Network (RAN)
+INC-00854,CVE-2018-51072,DDoS,6.6,2,100,2,250,Radio Access Network (RAN)
+INC-00855,CVE-2024-4430,Unauthorized Access,7.7,2,50,1,100,Multi-access Edge Computing (MEC)
+INC-00856,CVE-2021-13676,Man-in-the-Middle Attack,7.1,3,50,8,20,Cloud Infrastructure
+INC-00857,CVE-2018-33733,Ransomware,9.8,5,500,1,20,User Equipment (UE)
+INC-00858,CVE-2018-3050,Ransomware,8.7,5,250,1,1000,Radio Access Network (RAN)
+INC-00859,CVE-2022-34933,Data Leakage,5.3,5,1000,1,1000,Radio Access Network (RAN)
+INC-00860,CVE-2023-35801,Ransomware,5.4,1,100,6,50,IoT Endpoint
+INC-00861,CVE-2021-33913,Misconfiguration,7.3,6,100,4,250,5G Core
+INC-00862,CVE-2023-41600,Network Slice Breach,6.9,4,100,2,250,User Equipment (UE)
+INC-00863,CVE-2018-91093,Unauthorized Access,7.2,6,500,24,20,User Equipment (UE)
+INC-00864,CVE-2024-36400,Network Slice Breach,8.5,7,250,1,5,User Equipment (UE)
+INC-00865,CVE-2024-81688,DDoS,8.0,7,1000,2,5,Radio Access Network (RAN)
+INC-00866,CVE-2018-90431,Data Leakage,8.0,4,250,24,500,Multi-access Edge Computing (MEC)
+INC-00867,CVE-2021-98419,Unauthorized Access,9.7,6,250,4,250,5G Core
+INC-00868,CVE-2020-44001,Misconfiguration,5.4,3,500,6,100,Radio Access Network (RAN)
+INC-00869,CVE-2022-46028,DDoS,7.7,5,5000,1,5,Multi-access Edge Computing (MEC)
+INC-00870,CVE-2020-98659,Network Slice Breach,6.6,5,100,8,100,Cloud Infrastructure
+INC-00871,CVE-2023-1806,Data Leakage,9.7,5,50,4,250,User Equipment (UE)
+INC-00872,CVE-2024-30757,DDoS,4.2,4,250,12,500,Cloud Infrastructure
+INC-00873,CVE-2022-81097,Unauthorized Access,4.3,6,250,2,5,User Equipment (UE)
+INC-00874,CVE-2018-25262,Man-in-the-Middle Attack,8.0,3,5000,4,100,5G Core
+INC-00875,CVE-2021-63211,Phishing Attack,9.2,6,250,8,5,IoT Endpoint
+INC-00876,CVE-2020-57979,Ransomware,8.7,3,50,48,250,5G Core
+INC-00877,CVE-2022-82470,Phishing Attack,6.3,3,5000,1,100,Radio Access Network (RAN)
+INC-00878,CVE-2023-42844,SIM Swap Attack,9.8,3,1000,12,5,Multi-access Edge Computing (MEC)
+INC-00879,CVE-2020-35157,Firmware Vulnerability,5.7,4,50,2,250,IoT Endpoint
+INC-00880,CVE-2019-41042,DDoS,9.5,4,1000,6,5,IoT Endpoint
+INC-00881,CVE-2019-83856,Man-in-the-Middle Attack,5.9,3,100,2,500,5G Core
+INC-00882,CVE-2018-56554,Ransomware,7.0,6,100,6,20,5G Core
+INC-00883,CVE-2023-82412,SIM Swap Attack,8.5,2,1000,2,100,5G Core
+INC-00884,CVE-2022-74781,Network Slice Breach,5.3,3,250,2,1000,5G Core
+INC-00885,CVE-2024-67262,DDoS,9.7,4,50,1,20,5G Core
+INC-00886,CVE-2018-47600,Man-in-the-Middle Attack,7.0,6,100,1,50,IoT Endpoint
+INC-00887,CVE-2020-63483,Ransomware,7.7,5,500,24,50,User Equipment (UE)
+INC-00888,CVE-2019-31448,SIM Swap Attack,9.2,5,50,48,5,Radio Access Network (RAN)
+INC-00889,CVE-2022-43874,SIM Swap Attack,6.3,1,250,8,100,IoT Endpoint
+INC-00890,CVE-2019-85386,Data Leakage,9.1,3,500,2,250,5G Core
+INC-00891,CVE-2019-26425,DDoS,10.0,7,100,4,500,Cloud Infrastructure
+INC-00892,CVE-2023-25578,Man-in-the-Middle Attack,6.5,4,500,8,500,Radio Access Network (RAN)
+INC-00893,CVE-2020-62413,DDoS,9.6,3,1000,48,50,User Equipment (UE)
+INC-00894,CVE-2022-8287,DDoS,4.9,2,250,4,250,Cloud Infrastructure
+INC-00895,CVE-2022-76758,Phishing Attack,8.1,3,100,12,250,User Equipment (UE)
+INC-00896,CVE-2018-60720,Ransomware,5.7,2,100,48,50,5G Core
+INC-00897,CVE-2021-35701,Unauthorized Access,8.9,4,250,12,5,IoT Endpoint
+INC-00898,CVE-2022-18674,SIM Swap Attack,8.8,6,1000,2,50,5G Core
+INC-00899,CVE-2018-24874,Unauthorized Access,10.0,2,100,1,500,5G Core
+INC-00900,CVE-2020-98820,Ransomware,9.6,9,100,4,100,5G Core
+INC-00901,CVE-2018-18602,Misconfiguration,7.3,3,100,4,250,Cloud Infrastructure
+INC-00902,CVE-2018-89801,DDoS,5.9,4,250,2,5,Cloud Infrastructure
+INC-00903,CVE-2021-95377,Man-in-the-Middle Attack,8.3,1,50,2,1000,5G Core
+INC-00904,CVE-2018-47542,SIM Swap Attack,7.4,2,1000,8,50,Multi-access Edge Computing (MEC)
+INC-00905,CVE-2018-65772,Misconfiguration,9.8,1,100,4,100,Cloud Infrastructure
+INC-00906,CVE-2020-51106,Data Leakage,4.3,5,500,2,5,Multi-access Edge Computing (MEC)
+INC-00907,CVE-2019-26559,Ransomware,10.0,5,250,6,5,Radio Access Network (RAN)
+INC-00908,CVE-2021-34742,Ransomware,8.3,7,250,6,250,Multi-access Edge Computing (MEC)
+INC-00909,CVE-2023-81199,Phishing Attack,6.3,5,50,8,1000,User Equipment (UE)
+INC-00910,CVE-2020-4972,Firmware Vulnerability,8.6,3,500,1,20,Multi-access Edge Computing (MEC)
+INC-00911,CVE-2019-42873,Network Slice Breach,9.4,4,50,8,5,User Equipment (UE)
+INC-00912,CVE-2023-10903,Ransomware,7.7,4,50,6,20,Radio Access Network (RAN)
+INC-00913,CVE-2022-42755,DDoS,4.9,3,250,1,5,Radio Access Network (RAN)
+INC-00914,CVE-2022-87988,DDoS,7.1,4,500,8,5,Radio Access Network (RAN)
+INC-00915,CVE-2018-10516,Man-in-the-Middle Attack,9.1,4,50,2,250,5G Core
+INC-00916,CVE-2023-3396,Unauthorized Access,8.2,7,50,2,1000,Multi-access Edge Computing (MEC)
+INC-00917,CVE-2020-20129,Misconfiguration,7.3,6,1000,4,5,5G Core
+INC-00918,CVE-2020-2591,Man-in-the-Middle Attack,9.5,3,1000,2,100,User Equipment (UE)
+INC-00919,CVE-2019-72719,Ransomware,8.6,6,50,2,20,Radio Access Network (RAN)
+INC-00920,CVE-2020-93108,Data Leakage,8.7,3,250,12,5,User Equipment (UE)
+INC-00921,CVE-2022-87231,Unauthorized Access,6.9,3,100,1,20,Cloud Infrastructure
+INC-00922,CVE-2020-20623,Data Leakage,6.7,3,250,48,100,User Equipment (UE)
+INC-00923,CVE-2021-97826,Man-in-the-Middle Attack,5.0,2,1000,6,5,Cloud Infrastructure
+INC-00924,CVE-2020-84624,Phishing Attack,7.1,6,50,1,50,Multi-access Edge Computing (MEC)
+INC-00925,CVE-2022-34130,Firmware Vulnerability,8.9,7,500,1,5,5G Core
+INC-00926,CVE-2022-98624,Ransomware,7.2,3,250,6,20,Cloud Infrastructure
+INC-00927,CVE-2022-87206,DDoS,8.2,4,250,6,5,User Equipment (UE)
+INC-00928,CVE-2020-3469,Man-in-the-Middle Attack,9.2,3,500,1,500,User Equipment (UE)
+INC-00929,CVE-2021-23534,DDoS,8.1,7,5000,2,250,IoT Endpoint
+INC-00930,CVE-2022-49874,Ransomware,8.2,3,50,8,500,IoT Endpoint
+INC-00931,CVE-2022-75553,DDoS,5.5,5,50,1,50,5G Core
+INC-00932,CVE-2018-50138,Man-in-the-Middle Attack,7.0,4,50,12,20,IoT Endpoint
+INC-00933,CVE-2024-48638,DDoS,10.0,2,5000,6,50,5G Core
+INC-00934,CVE-2019-3719,Data Leakage,7.7,2,500,4,5,Radio Access Network (RAN)
+INC-00935,CVE-2020-78236,SIM Swap Attack,10.0,4,250,2,250,Multi-access Edge Computing (MEC)
+INC-00936,CVE-2023-43534,DDoS,6.4,6,50,1,20,Multi-access Edge Computing (MEC)
+INC-00937,CVE-2024-93241,DDoS,7.9,2,1000,12,20,5G Core
+INC-00938,CVE-2021-49845,Unauthorized Access,6.9,3,1000,1,100,User Equipment (UE)
+INC-00939,CVE-2022-93124,Firmware Vulnerability,8.4,4,500,2,50,User Equipment (UE)
+INC-00940,CVE-2021-34062,Ransomware,8.8,5,100,6,1000,IoT Endpoint
+INC-00941,CVE-2019-88263,Unauthorized Access,8.4,4,50,2,20,Multi-access Edge Computing (MEC)
+INC-00942,CVE-2022-61461,DDoS,9.1,1,250,4,100,Cloud Infrastructure
+INC-00943,CVE-2020-67672,Phishing Attack,7.5,4,500,12,20,5G Core
+INC-00944,CVE-2018-35832,Unauthorized Access,7.2,5,50,4,1000,IoT Endpoint
+INC-00945,CVE-2024-73545,Man-in-the-Middle Attack,4.9,2,250,24,50,5G Core
+INC-00946,CVE-2021-38311,Misconfiguration,8.5,0,100,12,100,Radio Access Network (RAN)
+INC-00947,CVE-2022-2007,Ransomware,7.8,4,500,2,5,Multi-access Edge Computing (MEC)
+INC-00948,CVE-2023-77242,Phishing Attack,7.4,2,250,2,250,IoT Endpoint
+INC-00949,CVE-2023-30257,DDoS,7.2,2,50,4,20,5G Core
+INC-00950,CVE-2018-43207,Misconfiguration,7.4,5,250,6,50,Radio Access Network (RAN)
+INC-00951,CVE-2019-62246,Data Leakage,7.1,1,100,2,500,Multi-access Edge Computing (MEC)
+INC-00952,CVE-2021-99875,Firmware Vulnerability,6.7,4,50,48,1000,Multi-access Edge Computing (MEC)
+INC-00953,CVE-2024-92357,DDoS,7.9,9,1000,6,50,IoT Endpoint
+INC-00954,CVE-2022-6084,DDoS,8.2,6,50,2,500,Radio Access Network (RAN)
+INC-00955,CVE-2023-14507,Unauthorized Access,6.3,5,100,6,5,Multi-access Edge Computing (MEC)
+INC-00956,CVE-2021-84807,Unauthorized Access,6.9,0,50,2,500,5G Core
+INC-00957,CVE-2021-8491,Ransomware,7.2,3,50,12,100,5G Core
+INC-00958,CVE-2020-51192,Unauthorized Access,7.5,3,100,6,50,Multi-access Edge Computing (MEC)
+INC-00959,CVE-2021-64888,DDoS,7.3,1,50,1,500,IoT Endpoint
+INC-00960,CVE-2019-10077,Unauthorized Access,8.5,5,250,1,500,5G Core
+INC-00961,CVE-2018-21953,Phishing Attack,5.0,2,50,12,20,5G Core
+INC-00962,CVE-2020-68889,Network Slice Breach,5.3,6,500,6,250,Multi-access Edge Computing (MEC)
+INC-00963,CVE-2023-38567,DDoS,7.8,2,50,48,5,Radio Access Network (RAN)
+INC-00964,CVE-2024-25860,Unauthorized Access,6.6,4,50,1,500,Radio Access Network (RAN)
+INC-00965,CVE-2021-78475,DDoS,8.8,5,100,2,100,Radio Access Network (RAN)
+INC-00966,CVE-2020-88266,SIM Swap Attack,9.3,5,1000,1,5,5G Core
+INC-00967,CVE-2021-28083,DDoS,7.9,1,250,6,100,5G Core
+INC-00968,CVE-2024-58372,Man-in-the-Middle Attack,5.9,3,500,2,100,User Equipment (UE)
+INC-00969,CVE-2020-45064,SIM Swap Attack,9.1,7,50,1,100,IoT Endpoint
+INC-00970,CVE-2023-32598,Phishing Attack,7.8,3,1000,6,20,IoT Endpoint
+INC-00971,CVE-2024-94106,Man-in-the-Middle Attack,5.3,5,50,4,20,Multi-access Edge Computing (MEC)
+INC-00972,CVE-2020-30241,Firmware Vulnerability,5.4,3,50,2,250,IoT Endpoint
+INC-00973,CVE-2024-45569,SIM Swap Attack,9.8,12,250,4,20,Cloud Infrastructure
+INC-00974,CVE-2019-27029,Data Leakage,9.5,1,100,8,50,IoT Endpoint
+INC-00975,CVE-2019-15288,Network Slice Breach,4.0,2,5000,2,100,Radio Access Network (RAN)
+INC-00976,CVE-2020-7540,Data Leakage,5.5,7,50,2,5,Multi-access Edge Computing (MEC)
+INC-00977,CVE-2018-82958,Network Slice Breach,9.2,2,5000,2,100,Radio Access Network (RAN)
+INC-00978,CVE-2024-42846,Data Leakage,7.5,3,250,8,100,Multi-access Edge Computing (MEC)
+INC-00979,CVE-2022-76932,Unauthorized Access,8.6,4,250,12,100,Multi-access Edge Computing (MEC)
+INC-00980,CVE-2020-24411,Ransomware,7.4,1,50,2,20,User Equipment (UE)
+INC-00981,CVE-2019-79797,DDoS,8.5,4,100,2,50,IoT Endpoint
+INC-00982,CVE-2021-4093,DDoS,7.5,8,5000,24,20,5G Core
+INC-00983,CVE-2020-23042,Ransomware,6.8,4,100,48,250,5G Core
+INC-00984,CVE-2020-45413,DDoS,9.1,6,500,6,5,Radio Access Network (RAN)
+INC-00985,CVE-2021-94623,Network Slice Breach,7.8,5,5000,48,1000,5G Core
+INC-00986,CVE-2021-34756,Ransomware,8.5,3,100,6,100,Radio Access Network (RAN)
+INC-00987,CVE-2022-40214,Phishing Attack,7.7,2,250,8,500,Radio Access Network (RAN)
+INC-00988,CVE-2022-29602,DDoS,6.8,9,500,2,50,Radio Access Network (RAN)
+INC-00989,CVE-2021-49901,Ransomware,9.9,1,50,4,20,Cloud Infrastructure
+INC-00990,CVE-2020-64416,Man-in-the-Middle Attack,8.0,4,50,1,500,Radio Access Network (RAN)
+INC-00991,CVE-2022-6626,Data Leakage,7.0,7,250,12,5,Radio Access Network (RAN)
+INC-00992,CVE-2018-13857,DDoS,9.4,0,100,24,5,5G Core
+INC-00993,CVE-2021-20982,Firmware Vulnerability,5.5,8,500,6,20,Multi-access Edge Computing (MEC)
+INC-00994,CVE-2019-2980,Firmware Vulnerability,10.0,7,50,2,1000,5G Core
+INC-00995,CVE-2020-27431,Unauthorized Access,7.2,1,5000,1,100,IoT Endpoint
+INC-00996,CVE-2018-83711,Unauthorized Access,5.6,3,50,2,100,5G Core
+INC-00997,CVE-2021-27385,SIM Swap Attack,10.0,3,250,2,250,Multi-access Edge Computing (MEC)
+INC-00998,CVE-2024-24019,Data Leakage,6.8,3,250,6,50,User Equipment (UE)
+INC-00999,CVE-2020-22563,Network Slice Breach,7.9,3,50,24,250,5G Core
+INC-01000,CVE-2023-6776,Firmware Vulnerability,8.6,4,50,1,50,Radio Access Network (RAN)
